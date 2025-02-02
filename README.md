@@ -85,7 +85,7 @@ Refer to the [Project Schedule Solver README](./ProjectManagement/WebApp/README.
 📌 **Description:**  
 A **full-stack web application** that provides **restaurant recommendations** based on user preferences, location, and **Yelp data**.
 
-📂 **Location:** [`/DineWise`](./DineWise)
+📂 **Location:** [`/DineWise`](./_DineWise)
 
 🛠 **Technologies:**
 
@@ -101,7 +101,7 @@ A **full-stack web application** that provides **restaurant recommendations** ba
 - **Review analysis & sentiment tracking** (planned feature)
 
 📖 **Detailed Setup & Instructions:**  
-Refer to the [DineWise README](./DineWise/README.md)
+Refer to the [DineWise README](./_DineWise/README.md)
 
 ---
 

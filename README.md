@@ -36,7 +36,7 @@ This project looks at how network models and linear programming (LP) can improve
 📌 **Description:**  
 A **desktop-based application** for project scheduling and optimization. It provides an **interactive UI** that allows users to define tasks, analyze multiple scenarios, and generate **Gantt charts**.
 
-📂 **Location:** [`/DesktopApp`](./DesktopApp)
+📂 **Location:** [`/DesktopApp`](./ProjectManagement/DesktopApp)
 
 🛠 **Technologies:**
 
@@ -51,7 +51,7 @@ A **desktop-based application** for project scheduling and optimization. It prov
 - **Real-time schedule optimization** using **PuLP solver**
 
 📖 **Detailed Setup & Instructions:**  
-Refer to the [Project Schedule Desktop App README](./DesktopApp/README.md)
+Refer to the [Project Schedule Desktop App README](./ProjectManagement/DesktopApp/README.md)
 
 ---
 
@@ -60,7 +60,7 @@ Refer to the [Project Schedule Desktop App README](./DesktopApp/README.md)
 📌 **Description:**  
 A **web-based application** that visualizes project schedules, computes **critical paths**, and provides cost estimates based on **worker allocation**.
 
-📂 **Location:** [`/WebApp`](./WebApp)
+📂 **Location:** [`/WebApp`](./ProjectManagement/WebApp)
 
 🛠 **Technologies:**
 
@@ -76,7 +76,7 @@ A **web-based application** that visualizes project schedules, computes **critic
 - **Real-time solving** with `javascript-lp-solver`
 
 📖 **Detailed Setup & Instructions:**  
-Refer to the [Project Schedule Solver README](./WebApp/README.md)
+Refer to the [Project Schedule Solver README](./ProjectManagement/WebApp/README.md)
 
 ---
 

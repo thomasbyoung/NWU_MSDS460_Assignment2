@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Project Schedule Solver</title>
+
+    <style>
+      body {
+        margin: 20px;
+        font-family: sans-serif;
+      }
+      #controls {
+        margin-bottom: 10px;
+      }
+      #results {
+        white-space: pre;
+        border: 1px solid #ccc;
+        padding: 8px;
+        min-height: 100px;
+        margin-top: 10px;
+        font-family: monospace;
+      }
+      #chartContainer {
+        width: 100%;
+        height: 600px;
+        margin-top: 20px;
+      }
+      canvas {
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .cost-summary {
+        margin-top: 20px;
+        padding: 10px;
+        background: #f5f5f5;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="controls">
+      <label for="scenarioSelect">Scenario:</label>
+      <select id="scenarioSelect">
+        <option value="best">Best Case</option>
+        <option value="expected" selected>Expected Case</option>
+        <option value="worst">Worst Case</option>
+      </select>
+      <button id="solveBtn">Solve Schedule</button>
+    </div>
+
+    <div id="results"></div>
+    <div class="cost-summary" id="costSummary"></div>
+
+    <div id="chartContainer">
+      <canvas id="ganttChart"></canvas>
+    </div>
+
+    <!-- Load dependencies first -->
+    <script src="https://cdn.jsdelivr.net/gh/JWally/jsLPSolver@master/prod/solver.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Load our script last -->
+    <script src="script.js"></script>
+  </body>
+</html>

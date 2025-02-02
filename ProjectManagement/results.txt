@@ -1,0 +1,74 @@
+====================================================
+BUILDING LINEAR PROGRAM FOR SCENARIO: BestCase
+====================================================
+
+Scenario: BestCase
+Solver Status: Optimal
+Minimum Project Finish Time (T_max) = 60.00 hours
+
+Detailed Task Schedule:
+  Task A: Duration=4  Start=0.00,  Completion=4.00
+  Task B: Duration=2  Start=0.00,  Completion=2.00
+  Task C: Duration=6  Start=4.00,  Completion=10.00
+  Task D1: Duration=6  Start=4.00,  Completion=10.00
+  Task D2: Duration=8  Start=10.00,  Completion=18.00
+  Task D3: Duration=8  Start=10.00,  Completion=18.00
+  Task D4: Duration=16  Start=18.00,  Completion=34.00
+  Task D5: Duration=4  Start=34.00,  Completion=38.00
+  Task D6: Duration=6  Start=34.00,  Completion=40.00
+  Task D7: Duration=8  Start=40.00,  Completion=48.00
+  Task D8: Duration=4  Start=48.00,  Completion=52.00
+  Task E: Duration=6  Start=10.00,  Completion=16.00
+  Task F: Duration=4  Start=52.00,  Completion=56.00
+  Task G: Duration=4  Start=52.00,  Completion=56.00
+  Task H: Duration=4  Start=56.00,  Completion=60.00
+
+====================================================
+BUILDING LINEAR PROGRAM FOR SCENARIO: ExpectedCase
+====================================================
+
+Scenario: ExpectedCase
+Solver Status: Optimal
+Minimum Project Finish Time (T_max) = 114.00 hours
+
+Detailed Task Schedule:
+  Task A: Duration=8  Start=0.00,  Completion=8.00
+  Task B: Duration=6  Start=0.00,  Completion=6.00
+  Task C: Duration=10  Start=8.00,  Completion=18.00
+  Task D1: Duration=10  Start=8.00,  Completion=18.00
+  Task D2: Duration=12  Start=18.00,  Completion=30.00
+  Task D3: Duration=12  Start=18.00,  Completion=30.00
+  Task D4: Duration=24  Start=30.00,  Completion=54.00
+  Task D5: Duration=12  Start=54.00,  Completion=66.00
+  Task D6: Duration=24  Start=54.00,  Completion=78.00
+  Task D7: Duration=12  Start=78.00,  Completion=90.00
+  Task D8: Duration=8  Start=90.00,  Completion=98.00
+  Task E: Duration=12  Start=18.00,  Completion=30.00
+  Task F: Duration=8  Start=98.00,  Completion=106.00
+  Task G: Duration=8  Start=98.00,  Completion=106.00
+  Task H: Duration=8  Start=106.00,  Completion=114.00
+
+====================================================
+BUILDING LINEAR PROGRAM FOR SCENARIO: WorstCase
+====================================================
+
+Scenario: WorstCase
+Solver Status: Optimal
+Minimum Project Finish Time (T_max) = 181.00 hours
+
+Detailed Task Schedule:
+  Task A: Duration=12  Start=0.00,  Completion=12.00
+  Task B: Duration=10  Start=0.00,  Completion=10.00
+  Task C: Duration=16  Start=12.00,  Completion=28.00
+  Task D1: Duration=15  Start=12.00,  Completion=27.00
+  Task D2: Duration=18  Start=27.00,  Completion=45.00
+  Task D3: Duration=18  Start=27.00,  Completion=45.00
+  Task D4: Duration=40  Start=45.00,  Completion=85.00
+  Task D5: Duration=18  Start=85.00,  Completion=103.00
+  Task D6: Duration=40  Start=85.00,  Completion=125.00
+  Task D7: Duration=20  Start=125.00,  Completion=145.00
+  Task D8: Duration=12  Start=145.00,  Completion=157.00
+  Task E: Duration=18  Start=28.00,  Completion=46.00
+  Task F: Duration=12  Start=157.00,  Completion=169.00
+  Task G: Duration=12  Start=157.00,  Completion=169.00
+  Task H: Duration=12  Start=169.00,  Completion=181.00

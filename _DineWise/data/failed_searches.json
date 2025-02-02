@@ -1,0 +1,676 @@
+[
+    {
+        "restaurant": {
+            "category": "American",
+            "company": "The Westender",
+            "address": "493 Boston Post Road West, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "https://www.facebook.com/thewestender493/",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1014
+        },
+        "error": "Yelp API Error",
+        "details": [
+            {
+                "message": "Could not execute search, try specifying a more exact location.",
+                "locations": [
+                    {
+                        "line": 2,
+                        "column": 9
+                    }
+                ],
+                "path": [
+                    "search"
+                ],
+                "extensions": {
+                    "code": "LOCATION_NOT_FOUND"
+                }
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "category": "Latin",
+            "company": "Dennehy's Island Fever",
+            "address": "505 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.difever.com/",
+            "menulink": "https://difs.square.site/s/order",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1054
+        },
+        "error": "No Business Found"
+    },
+    {
+        "restaurant": {
+            "category": "Latin",
+            "company": "Laberedas Brazilian BBQ",
+            "address": "500 Boston Post Road East, Marlborough, MA",
+            "url": "https://www.labaredasbrazilianbbq.com/",
+            "menulink": "https://www.labaredasbrazilianbbq.com/food/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1055
+        },
+        "error": "No Business Found"
+    },
+    {
+        "restaurant": {
+            "category": "Latin",
+            "company": "Tropical Caf\u00c3\u00a9",
+            "address": "22 Rawlins Avenue, Marlborough, MA",
+            "url": "https://menupages.com/tropical-cafe/22-rawlins-ave-marlborough/",
+            "menulink": "https://menupages.com/tropical-cafe/22-rawlins-ave-marlborough/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1057
+        },
+        "error": "No Business Found"
+    },
+    {
+        "restaurant": {
+            "category": "Cafes Coffee Shops Bakeries",
+            "company": "Main Street Caf\u00c3\u00a9",
+            "address": "182 Main Street, Marlborough, MA",
+            "url": "https://www.themainstcafe.com/",
+            "menulink": "https://main-street-cafe-102882.square.site/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1065
+        },
+        "error": "No Business Found"
+    },
+    {
+        "restaurant": {
+            "category": "Cafes Coffee Shops Bakeries",
+            "company": "The Sunnyside Caf\u00c3\u00a9",
+            "address": "42 Boston Post Road East, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "https://www.facebook.com/pages/Sunny-Side-Cafe/117389724953352",
+            "googlink": "https://www.google.com/search?q=The+Sunnyside+Caf%C3%A9%22%2C+%22address%22%3A+%2242+Boston+Post+Road+East%2C+Marlborough%2C+MA%22&oq=The+Sunnyside+Caf%C3%A9%22%2C+%22address%22%3A+%2242+Boston+Post+Road+East%2C+Marlborough%2C+MA%22&aqs=chrome..69i57.1673j0j7&sourceid=chrome&ie=UTF-8",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1068
+        },
+        "error": "No Business Found"
+    },
+    {
+        "restaurant": {
+            "category": "Cafes Coffee Shops Bakeries",
+            "company": "Stella's Custom Cakes- Italian Bakery",
+            "address": "416 Boston Post Road East, Marlborough, MA",
+            "url": "https://www.stellascustomcakes.com/",
+            "menulink": "https://www.stellascustomcakes.com/menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1073
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Cafes Coffee Shops Bakeries",
+            "company": "Gerardos Italian Bakery",
+            "address": "115 Apex Drive, Marlborough, MA",
+            "url": "http://www.gerardositalianbakery.com/",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1074
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Cafes Coffee Shops Bakeries",
+            "company": "La Latina Bakery",
+            "address": "27 Boston Post Road East, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "https://www.facebook.com/pages/category/Product-service/La-latina-bakery-103473408146468/",
+            "googlink": "https://www.google.com/search?q=La+Latina+Bakery,+address:+27+Boston+Post+Road+East,+Marlborough,+MA&sa=X&ved=2ahUKEwi8i5r21OH5AhVxomoFHY-3BRwQgwN6BAgBEAE&biw=1086&bih=535&dpr=1.5",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1075
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Boston Market",
+            "address": "189 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.bostonmarket.com/",
+            "menulink": "https://www.bostonmarket.com/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Boston_Market",
+            "latitude": "",
+            "longitude": "",
+            "id": 1076
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "D'Angelo Grilled Sandwiches",
+            "address": "286 West Main Street, Marlborough, MA",
+            "url": "https://dangelos.com/",
+            "menulink": "https://dangelos.com/#menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1077
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Panera Bread",
+            "address": "197 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.panerabread.com/en-us/home.html",
+            "menulink": "https://www.panerabread.com/en-us/home.html",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Panera_Bread",
+            "latitude": "",
+            "longitude": "",
+            "id": 1078
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Protein House",
+            "address": "90-D Apex Drive, Marlborough, MA",
+            "url": "https://www.protein-house.com/",
+            "menulink": "https://www.protein-house.com/menu/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1079
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Kennedy's Market",
+            "address": "247 Maple Street, Marlborough, MA",
+            "url": "https://www.kennedysmarket.com/",
+            "menulink": "https://www.kennedysmarket.com/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1080
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Crown Fried Chicken",
+            "address": "10 Weed Street, Marlborough, MA ",
+            "url": "http://www.crown-fried-chicken.com/",
+            "menulink": "http://www.crown-fried-chicken.com/menu.php",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Kennedy_Fried_Chicken",
+            "latitude": "",
+            "longitude": "",
+            "id": 1081
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Pizzarella",
+            "address": "205 East Main Street, Marlborough, MA",
+            "url": "http://www.pizzarellainc.com/",
+            "menulink": "https://orderonlinemenu.com/Pizzarellas",
+            "facelinkh": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1082
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Jennys Place",
+            "address": "162 Church Street, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "https://www.facebook.com/JennysPlace162/",
+            "googlink": "https://www.google.com/search?q=Jennys+Place%22%2C+%22address%22%3A+%22162+Church+Street%2C+Marlborough%2C+MA&oq=Jennys+Place%22%2C+%22address%22%3A+%22162+Church+Street%2C+Marlborough%2C+MA&aqs=chrome..69i57.957j0j7&sourceid=chrome&ie=UTF-8",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1083
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Five Guys Burgers and Fries",
+            "address": "197 Boston Post Road West, Marlborough, MA",
+            "url": "https://restaurants.fiveguys.com/197-boston-post-road-west",
+            "menulink": "https://www.fiveguys.com/menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Five_Guys",
+            "latitude": "",
+            "longitude": "",
+            "id": 1084
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Classic Pizza",
+            "address": "72 Hosmer Street, Marlborough, MA",
+            "url": "https://www.classicpizza1.com/",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1085
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Clockwork Pizza",
+            "address": "19 Maple Street, Marlborough, MA",
+            "url": "https://clockworkpizza.com/",
+            "menulink": "https://weborder8.microworks.com/clockworkpizza/Groups",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1086
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Domino's",
+            "address": "54 Main Street, Marlborough, MA",
+            "url": "https://www.dominos.com/en/",
+            "menulink": "https://www.dominos.com/en/pages/order/menu#!/menu/category/viewall/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Domino%27s_Pizza",
+            "latitude": "",
+            "longitude": "",
+            "id": 1087
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Kindles Wood Fired Pizzeria",
+            "address": "10 Boston Post Road East, Marlborough, MA",
+            "url": "https://slicelife.com/?display_disabled_shop_notice=true&disabled_shop_name=Kindles%20Wood%20Fired%20Brick%20Oven%20Pizzeria",
+            "menulink": "https://slicelife.com/?display_disabled_shop_notice=true&disabled_shop_name=Kindles%20Wood%20Fired%20Brick%20Oven%20Pizzeria",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1088
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Family House of Pizza",
+            "address": "329 Maple Street, Marlborough, MA",
+            "url": "https://www.familyhouseofpizza.com/",
+            "menulink": "https://www.familyhouseofpizza.com/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1089
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Marlboro House of Pizza",
+            "address": "280 Main Street, Marlborough, MA",
+            "url": "http://www.marlborohouseofpizza.com/",
+            "menulink": "http://www.marlborohouseofpizza.com/menu.html",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1090
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Pleasant Pizza & Grill",
+            "address": "166 Pleasant Street, Marlborough, MA",
+            "url": "https://www.pleasantpizzagrill.com/",
+            "menulink": "https://www.pleasantpizzagrill.com/menu.html",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1091
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Street Kitchen",
+            "address": "132 Main Street, Marlborough, MA",
+            "url": "https://www.streetkitchenonline.com/",
+            "menulink": "https://streetkitchenonline.smartonlineorder.com/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1092
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Lake Williams Pizza",
+            "address": "270 West Main Street, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "https://www.google.com/search?q=%22Lake+Williams+Pizza%22%2C+%22address%22%3A+%22270+West+Main+Street%2C+Marlborough%2C+MA%22&oq=%22Lake+Williams+Pizza%22%2C+%22address%22%3A+%22270+West+Main+Street%2C+Marlborough%2C+MA%22&aqs=chrome..69i57.701j0j4&sourceid=chrome&ie=UTF-8",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1093
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Hot Table",
+            "address": "160 Apex Drive, Marlborough, MA",
+            "url": "https://hottable.com/",
+            "menulink": "https://hottable.com/menu/",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1094
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "Jersey Mike's Subs",
+            "address": "42 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.jerseymikes.com/",
+            "menulink": "https://www.jerseymikes.com/menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Jersey_Mike%27s_Subs",
+            "latitude": "",
+            "longitude": "",
+            "id": 1095
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Casual",
+            "company": "The Vin Bin",
+            "address": "91 Main Street, Marlborough, MA",
+            "url": "https://www.thevinbin.com/",
+            "menulink": "https://thevinbin.com/pages/cafe-menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "",
+            "latitude": "",
+            "longitude": "",
+            "id": 1096
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Dunkin Donuts (269)",
+            "address": "269 East Main Street, Marlborough, MA",
+            "url": "https://www.dunkindonuts.com/en",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/DunkinDonuts",
+            "latitude": "",
+            "longitude": "",
+            "id": 1097
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Dunkin Donuts (199)",
+            "address": "199 Lakeside Avenue, Marlborough, MA",
+            "url": "https://www.dunkindonuts.com/en",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/DunkinDonuts",
+            "latitude": "",
+            "longitude": "",
+            "id": 1098
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Dunkin Donuts (312)",
+            "address": "312 Maple Street, Marlborough, MA",
+            "url": "https://www.dunkindonuts.com/en",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/DunkinDonuts",
+            "latitude": "",
+            "longitude": "",
+            "id": 1099
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "McDonald's",
+            "address": "155 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.mcdonalds.com/us/en-us.html",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/McDonald%27s",
+            "latitude": "",
+            "longitude": "",
+            "id": 1100
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "McDonald's",
+            "address": "255 Maple Street, Marlborough, MA",
+            "url": "https://www.mcdonalds.com/us/en-us.html",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/McDonald%27s",
+            "latitude": "",
+            "longitude": "",
+            "id": 1101
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Starbucks",
+            "address": "23 South Bolton Street, Marlborough, MA",
+            "url": "https://www.starbucks.com/",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Starbucks",
+            "latitude": "",
+            "longitude": "",
+            "id": 1102
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Starbucks",
+            "address": "155 Boston Post Road West, Marlborough, MA",
+            "url": "",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "https://www.google.com/search?q=%22Starbucks%22%2C%20%22address%22%3A%20%22155%20Boston%20Post%20Road%20West%2C%20Marlborough%2C%20MA%22&oq=%22Starbucks%22%2C+%22address%22%3A+%22155+Boston+Post+Road+West%2C+Marlborough%2C+MA%22&aqs=chrome..69i57.1101j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:4&tbm=lcl&rflfq=1&num=10&rldimm=1272431801959335478&lqi=CkQiU3RhcmJ1Y2tzIiwgImFkZHJlc3MiOiAiMTU1IEJvc3RvbiBQb3N0IFJvYWQgV2VzdCwgTWFybGJvcm91Z2gsIE1BIiIFSAGIAQFI47fJmr6CgIAIWkIQABgAGAIYAxgEGAYYByIyc3RhcmJ1Y2tzIDE1NSBib3N0b24gcG9zdCByb2FkIHdlc3QgbWFybGJvcm91Z2ggbWGSAQtjb2ZmZWVfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSUGQxOXFYM2xuUlJBQqoBERABKg0iCXN0YXJidWNrcygA&ved=2ahUKEwj2k-WwvuL5AhW8lWoFHZOdCXgQvS56BAgGEAE&sa=X&rlst=f#rlfi=hd:;si:1272431801959335478,l,CkQiU3RhcmJ1Y2tzIiwgImFkZHJlc3MiOiAiMTU1IEJvc3RvbiBQb3N0IFJvYWQgV2VzdCwgTWFybGJvcm91Z2gsIE1BIiIFSAGIAQFI47fJmr6CgIAIWkIQABgAGAIYAxgEGAYYByIyc3RhcmJ1Y2tzIDE1NSBib3N0b24gcG9zdCByb2FkIHdlc3QgbWFybGJvcm91Z2ggbWGSAQtjb2ZmZWVfc2hvcJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSUGQxOXFYM2xuUlJBQqoBERABKg0iCXN0YXJidWNrcygA;mv:[[42.4734738,-71.2789442],[42.1423127,-71.7728793]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:4",
+            "wikilink": "https://en.wikipedia.org/wiki/Starbucks",
+            "latitude": "",
+            "longitude": "",
+            "id": 1103
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Wendy's",
+            "address": "176 Boston Post Road West, Marlborough, MA",
+            "url": "https://www.wendys.com/",
+            "menulink": "https://order.wendys.com/categories?site=menu",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Wendy%27s",
+            "latitude": "",
+            "longitude": "",
+            "id": 1104
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    },
+    {
+        "restaurant": {
+            "category": "Fast Food",
+            "company": "Chick-fil-A",
+            "address": "36 Apex Drive, Marlborough, MA ",
+            "url": "https://www.chick-fil-a.com/",
+            "menulink": "",
+            "facelink": "",
+            "googlink": "",
+            "wikilink": "https://en.wikipedia.org/wiki/Chick-fil-A",
+            "latitude": "",
+            "longitude": "",
+            "id": 1105
+        },
+        "error": "HTTP 500",
+        "response": "Failed to fetch from Yelp: Yelp GraphQL error 400: {\"errors\":[{\"message\":\"You have reached the GraphQL daily points limit for this API key. The limit will reset at midnight GMT.\",\"extensions\":{\"code\":\"DAILY_POINTS_LIMIT_REACHED\"}}]}\n"
+    }
+]

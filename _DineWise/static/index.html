@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DineWise</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.5/dist/cdn.min.js"
+      defer
+    ></script>
+    <script src="js/restaurantApp.js"></script>
+  </head>
+  <body class="bg-gray-100 p-10">
+    <div
+      x-data="restaurantApp()"
+      x-init="init()"
+      class="max-w-4xl mx-auto bg-white shadow-lg rounded-lg p-5"
+    >
+      <h1 class="text-2xl font-bold mb-4">
+        Marlborough Restaurant Suggestions
+      </h1>
+
+      <p
+        x-show="errorMessage"
+        class="text-red-500 mb-4"
+        x-text="errorMessage"
+      ></p>
+
+      <div x-show="loading" class="text-center py-4">
+        <p class="text-gray-500">Loading restaurants...</p>
+      </div>
+
+      <div x-show="!loading && restaurants.length > 0">
+        <div class="mb-4 flex items-center justify-between">
+          <p class="text-sm text-gray-600">
+            Showing <span x-text="restaurants.length"></span> restaurants
+          </p>
+          <button
+            @click="openModal()"
+            class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+          >
+            Modify Filters
+          </button>
+        </div>
+
+        <table class="table-auto w-full border-collapse border border-gray-200">
+          <thead>
+            <tr class="bg-gray-200">
+              <th class="border border-gray-300 px-4 py-2">Company</th>
+              <th class="border border-gray-300 px-4 py-2">Address</th>
+              <th class="border border-gray-300 px-4 py-2">Category</th>
+              <th class="border border-gray-300 px-4 py-2">Price</th>
+              <th class="border border-gray-300 px-4 py-2">Rating</th>
+              <th class="border border-gray-300 px-4 py-2">Menu</th>
+            </tr>
+          </thead>
+          <tbody>
+            <template
+              x-for="(restaurant, index) in restaurants"
+              :key="restaurant.company + index"
+            >
+              <tr
+                class="border border-gray-300 cursor-pointer hover:bg-gray-100"
+                @click="redirectToDetails(restaurant)"
+              >
+                <td
+                  class="border px-4 py-2"
+                  x-text="restaurant.company || 'N/A'"
+                ></td>
+                <td
+                  class="border px-4 py-2"
+                  x-text="restaurant.address || 'N/A'"
+                ></td>
+                <td
+                  class="border px-4 py-2"
+                  x-text="restaurant.category || 'N/A'"
+                ></td>
+                <td
+                  class="border px-4 py-2"
+                  x-text="restaurant.yelpData?.price || 'N/A'"
+                ></td>
+                <td class="border px-4 py-2">
+                  <template x-if="restaurant.yelpData?.rating">
+                    <span>
+                      <span x-text="restaurant.yelpData.rating"></span> ⭐
+                      <span
+                        class="text-sm text-gray-500"
+                        x-text="'(' + restaurant.yelpData.review_count + ' reviews)'"
+                      ></span>
+                    </span>
+                  </template>
+                  <template x-if="!restaurant.yelpData?.rating">
+                    <span>N/A</span>
+                  </template>
+                </td>
+                <td class="border px-4 py-2">
+                  <a
+                    x-show="restaurant.menulink"
+                    :href="restaurant.menulink"
+                    class="text-blue-500 underline"
+                    target="_blank"
+                    @click.stop
+                  >
+                    View Menu
+                  </a>
+                </td>
+              </tr>
+            </template>
+          </tbody>
+        </table>
+      </div>
+
+      <div
+        class="fixed inset-0 flex items-center justify-center bg-gray-800 bg-opacity-50 z-50"
+        x-show="showModal"
+      >
+        <div class="bg-white rounded shadow-lg p-6 w-96">
+          <h2 class="text-xl font-semibold mb-4">Filter Restaurants</h2>
+          <form @submit.prevent="submitFilters">
+            <div class="mb-4">
+              <label class="block mb-2 font-medium" for="categorySelect">
+                Category
+              </label>
+              <select
+                id="categorySelect"
+                class="w-full border border-gray-300 rounded p-2"
+                x-model="selectedCategory"
+              >
+                <option value="">All Categories</option>
+                <template x-for="cat in categories" :key="cat">
+                  <option :value="cat" x-text="cat"></option>
+                </template>
+              </select>
+            </div>
+
+            <div class="mb-4">
+              <label class="block mb-2 font-medium" for="priceSelect">
+                Price Range
+              </label>
+              <select
+                id="priceSelect"
+                class="w-full border border-gray-300 rounded p-2"
+                x-model="selectedPrice"
+              >
+                <option value="">All Prices</option>
+                <template x-for="price in priceRanges" :key="price">
+                  <option :value="price" x-text="price"></option>
+                </template>
+              </select>
+            </div>
+
+            <div class="mb-4 text-sm text-gray-600">
+              Please select at least one filter option.
+            </div>
+
+            <div class="flex justify-between">
+              <button
+                type="button"
+                class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400"
+                @click="resetFilters()"
+              >
+                Reset
+              </button>
+              <button
+                type="submit"
+                class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+                :disabled="!selectedCategory && !selectedPrice"
+              >
+                Apply Filters
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

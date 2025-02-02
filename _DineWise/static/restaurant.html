@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Restaurant Details</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.5/dist/cdn.min.js"
+      defer
+    ></script>
+  </head>
+  <body class="bg-gray-100 p-10">
+    <div x-data="restaurantDetails()" x-init="fetchYelpData('110 Grill')">
+      <h1 class="text-2xl font-bold mb-4">Restaurant Details (GraphQL)</h1>
+
+      <!-- Search Input -->
+      <!-- <div class="mb-4">
+      <input
+        type="text"
+        x-model="searchQuery"
+        placeholder="Enter restaurant name"
+        class="p-2 border rounded w-64"
+      />
+      <button
+        @click="fetchYelpData(searchQuery)"
+        class="ml-2 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+      >
+        Search
+      </button>
+    </div> -->
+
+      <!-- Loading Message -->
+      <div x-show="loading" class="text-gray-500">
+        <p>Loading...</p>
+      </div>
+
+      <div
+        x-show="errorMessage"
+        class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded"
+        role="alert"
+      >
+        <p x-text="errorMessage"></p>
+      </div>
+
+      <div x-show="restaurant" class="mt-4">
+        <h2 class="text-xl font-semibold" x-text="restaurant.name"></h2>
+        <div class="mt-4 space-y-2">
+          <p>
+            <strong>Rating:</strong>
+            <span
+              x-text="restaurant.rating ? restaurant.rating + ' ⭐' : 'N/A'"
+            ></span>
+          </p>
+          <p>
+            <strong>Review Count:</strong>
+            <span x-text="restaurant.review_count || 'N/A'"></span>
+          </p>
+          <p>
+            <strong>Price:</strong>
+            <span x-text="restaurant.price || 'N/A'"></span>
+          </p>
+          <p>
+            <strong>Phone:</strong>
+            <span x-text="restaurant.phone || 'N/A'"></span>
+          </p>
+          <p x-show="restaurant.url">
+            <strong>Yelp Link:</strong>
+            <a
+              :href="restaurant.url"
+              class="text-blue-500 hover:text-blue-700 underline"
+              target="_blank"
+            >
+              View on Yelp
+            </a>
+          </p>
+        </div>
+
+        <div
+          class="mt-4"
+          x-show="restaurant.photos && restaurant.photos.length > 0"
+        >
+          <img
+            :src="restaurant.photos[0]"
+            class="rounded-lg shadow-md w-full max-h-80 object-cover"
+            alt="Restaurant Image"
+            @error="$el.style.display = 'none'"
+          />
+        </div>
+
+        <div class="mt-6">
+          <h3 class="text-lg font-semibold mb-3">Recent Reviews</h3>
+          <div x-show="loadingReviews" class="text-gray-500">
+            Loading reviews...
+          </div>
+          <div
+            x-show="reviewError"
+            class="text-red-500"
+            x-text="reviewError"
+          ></div>
+          <template x-if="reviews && reviews.length > 0">
+            <div class="space-y-4">
+              <template x-for="review in reviews" :key="review.id">
+                <div class="border-b pb-4">
+                  <div class="flex items-center mb-2">
+                    <span
+                      class="font-semibold mr-2"
+                      x-text="review.user.name"
+                    ></span>
+                    <span
+                      class="text-yellow-500"
+                      x-text="'⭐'.repeat(review.rating)"
+                    ></span>
+                  </div>
+                  <p class="text-gray-700" x-text="review.text"></p>
+                  <p
+                    class="text-sm text-gray-500 mt-1"
+                    x-text="new Date(review.timeCreated).toLocaleDateString()"
+                  ></p>
+                </div>
+              </template>
+            </div>
+          </template>
+        </div>
+      </div>
+    </div>
+    <script>
+      function restaurantDetails() {
+        return {
+          restaurant: null,
+          reviews: [],
+          errorMessage: "",
+          reviewError: "",
+          loading: false,
+          loadingReviews: false,
+          searchQuery: "",
+
+          async fetchYelpData(searchTerm) {
+            const urlParams = new URLSearchParams(window.location.search);
+            const query = urlParams.get("query") || searchTerm;
+            const location = urlParams.get("location");
+
+            if (!query) {
+              this.errorMessage = "Please enter a restaurant name";
+              return;
+            }
+
+            this.loading = true;
+            this.errorMessage = "";
+            this.restaurant = null;
+            this.reviews = [];
+
+            try {
+              const params = new URLSearchParams({
+                term: query,
+                location: location || "Marlborough, MA",
+              });
+
+              const response = await fetch(
+                `/api/yelp-graphql-search?${params}`
+              );
+
+              if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+              }
+
+              const data = await response.json();
+              if (
+                data.data?.search?.business &&
+                data.data.search.business.length > 0
+              ) {
+                this.restaurant = data.data.search.business[0];
+                if (this.restaurant.id) {
+                  await this.fetchReviews(this.restaurant.id);
+                }
+              } else {
+                this.errorMessage =
+                  "No restaurants found matching your search.";
+              }
+            } catch (error) {
+              console.error("Error fetching search data:", error);
+              this.errorMessage = "Failed to fetch restaurant data.";
+            } finally {
+              this.loading = false;
+            }
+          },
+
+          async fetchReviews(businessId) {
+            this.loadingReviews = true;
+            this.reviewError = "";
+            this.reviews = [];
+
+            try {
+              const resp = await fetch(
+                `/api/yelp-graphql-reviews?businessId=${businessId}`
+              );
+              if (!resp.ok) {
+                throw new Error(`HTTP error! status: ${resp.status}`);
+              }
+              const data = await resp.json();
+              console.log("Review response:", data);
+
+              if (data.data?.business?.reviews) {
+                this.reviews = data.data.business.reviews;
+              } else {
+                this.reviewError = "No reviews found.";
+                console.log("Raw review data:", data);
+              }
+            } catch (error) {
+              console.error("Error fetching reviews:", error);
+              this.reviewError = "Failed to load reviews.";
+            } finally {
+              this.loadingReviews = false;
+            }
+          },
+        };
+      }
+    </script>
+  </body>
+</html>

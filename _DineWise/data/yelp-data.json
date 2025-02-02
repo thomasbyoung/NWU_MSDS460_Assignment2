@@ -1,0 +1,3038 @@
+[
+    {
+        "restaurant_id": 1000,
+        "company": "110 Grill",
+        "yelp_business_id": "XdtVjkDIqS67f504WDjGOg",
+        "yelp_data": {
+            "id": "XdtVjkDIqS67f504WDjGOg",
+            "name": "110 Grill",
+            "rating": 3.9,
+            "review_count": 320,
+            "price": "$$",
+            "phone": "+15082512027",
+            "url": "https://www.yelp.com/biz/110-grill-marlborough-7?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/LFT7-b2PJE6SJViKQ2n5yg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "DrEqAkwSzMqEzBEaBJRntw",
+                "rating": 5,
+                "text": "Always a great experience at 110 grill. This location has a great round bar area and large dining room space too. Seasonal cocktails are plentiful, and the...",
+                "time_created": "2024-12-12 16:31:35",
+                "user": {
+                    "name": "Chelsea F."
+                }
+            },
+            {
+                "id": "L_EdGpauVrxaV-yILEPycg",
+                "rating": 4,
+                "text": "Found this restaurant on our way to Maine and is quite good. Restaurant is very spacious, clean and comfortable. Had the clam chowder and it was creamy and...",
+                "time_created": "2024-05-27 20:42:23",
+                "user": {
+                    "name": "Claudine R."
+                }
+            },
+            {
+                "id": "-UEp9UqDTvhIdKMazYeQyg",
+                "rating": 4,
+                "text": "Food was very good. I had the Prosciutto Wrapped Cod, which was served over parmesan risotto and with broccoli. A lemon butter sauce was offered, but I did...",
+                "time_created": "2024-08-25 15:51:43",
+                "user": {
+                    "name": "Paul F."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1001,
+        "company": "All-star bar and grill",
+        "yelp_business_id": "oeHSR1eibOi2lTKIXvwQHQ",
+        "yelp_data": {
+            "id": "oeHSR1eibOi2lTKIXvwQHQ",
+            "name": "All-Star Bar & Grill",
+            "rating": 2.2,
+            "review_count": 25,
+            "price": "$$",
+            "phone": "+15083031783",
+            "url": "https://www.yelp.com/biz/all-star-bar-and-grill-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/r3ofCS86hreXe4vIF8frMw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "dlQzzleeD-R-opkIHsvzOg",
+                "rating": 1,
+                "text": "A conference is here in town all week. 500-600 people. Snowstorm coming. And they're closed! Only open Fri-Sat. This is the exact business plan to follow...",
+                "time_created": "2024-04-01 18:30:13",
+                "user": {
+                    "name": "Frank N."
+                }
+            },
+            {
+                "id": "WMIiINm9v0Jgz-ymBqTj8g",
+                "rating": 1,
+                "text": "I truly hate to do this but here it goes. I've worked in the service industry in the past and I know what good service looks like. This is not it. From...",
+                "time_created": "2024-06-17 15:47:10",
+                "user": {
+                    "name": "Kate R."
+                }
+            },
+            {
+                "id": "cHwSu6rymti8pAEksoMnVA",
+                "rating": 2,
+                "text": "For a hotel bar, I was really disappointed. They were pretty much dead when I came in at 8 pm after a LONG DAY handling a conference at the hotel and I...",
+                "time_created": "2019-06-10 10:49:45",
+                "user": {
+                    "name": "Megan K."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1002,
+        "company": "BLVD Kitchen & Bar",
+        "yelp_business_id": "CBygd8nq4qooUNML3P6-sQ",
+        "yelp_data": {
+            "id": "CBygd8nq4qooUNML3P6-sQ",
+            "name": "BLVD Kitchen & Bar",
+            "rating": 3.0,
+            "review_count": 18,
+            "price": "$$",
+            "phone": "+15082516706",
+            "url": "https://www.yelp.com/biz/blvd-kitchen-and-bar-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/hJZeVu86Sj0Yrcsg5SFPpw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "knq7b_Rond1T4_LvT8JZRg",
+                "rating": 1,
+                "text": "The mushroom pasta was bland/no flavor and over priced, drinks tasted watered down.\nFood is definitely not worth the price!",
+                "time_created": "2023-10-15 15:18:47",
+                "user": {
+                    "name": "R. Rebecca L."
+                }
+            },
+            {
+                "id": "cHroruQjo0OrglsamEsm-w",
+                "rating": 1,
+                "text": "Food was trash. Risotto was under cooked, I had 1 lobster claw meat and the rest were little pieces from the little legs. Soda was $5 a cup and we had 1...",
+                "time_created": "2023-10-15 15:17:59",
+                "user": {
+                    "name": "Kathlyn S."
+                }
+            },
+            {
+                "id": "wZHOux3tg_dOgY6OrbqVzw",
+                "rating": 2,
+                "text": "Yeah just don't based on my experiences. The waitstaff is superb and the only bright spot.\n\nFirst I impression was the BLVD royale which is there version of...",
+                "time_created": "2020-02-02 06:07:48",
+                "user": {
+                    "name": "Darris J."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1003,
+        "company": "Bolton Street Tavern",
+        "yelp_business_id": "pjuh02hEmzHs0jeUFchSXQ",
+        "yelp_data": {
+            "id": "pjuh02hEmzHs0jeUFchSXQ",
+            "name": "Bolton Street Tavern",
+            "rating": 2.7,
+            "review_count": 207,
+            "price": "$$",
+            "phone": "+15084854416",
+            "url": "https://www.yelp.com/biz/bolton-street-tavern-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/qxgoaLch4TAM_J7K6KWNzQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "qX_vnPQ7kOPnhUtPTAGjpQ",
+                "rating": 1,
+                "text": "Pathetic Pathetic!!!!!!\nDisgusting food don't think they even know food needs Salt & Pepper!! \nThey r basically looking for a beer drinking loud...",
+                "time_created": "2024-11-22 21:07:44",
+                "user": {
+                    "name": "Shaila B."
+                }
+            },
+            {
+                "id": "igyb3-n8RkLxqXGdG_7e0A",
+                "rating": 3,
+                "text": "Our problem with Bolton Street Tavern is their service.  They appear to be woefully understaffed. The last time we were there we walked out after a 40...",
+                "time_created": "2024-09-15 03:36:29",
+                "user": {
+                    "name": "Libbie A."
+                }
+            },
+            {
+                "id": "fEYbcc_fYCHICzrmz-6nhQ",
+                "rating": 1,
+                "text": "Holy shit. A friend of mine heard from a reliable source about issues with health inspections at the Tavern. I will spare you the details. So gross.\nUsed to...",
+                "time_created": "2024-08-20 18:01:46",
+                "user": {
+                    "name": "Missy L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1004,
+        "company": "Chill Kitchen and Bar",
+        "yelp_business_id": "Zw0T-qI7r3DY5cMMidC5iw",
+        "yelp_data": {
+            "id": "Zw0T-qI7r3DY5cMMidC5iw",
+            "name": "Chill Kitchen & Bar",
+            "rating": 4.3,
+            "review_count": 491,
+            "price": "$$",
+            "phone": "+15082996050",
+            "url": "https://www.yelp.com/biz/chill-kitchen-and-bar-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/v_ZbeQuqvtPkSkqkLfnwyg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "hEkimiZPRca_VLjgVWIgxg",
+                "rating": 5,
+                "text": "Another Friday night @ Chill\nGreat appetizers \nGreat food perfectly cooked ribeye steak with mash potatoes \nChicken Parmigiana with linguine \nChicken with...",
+                "time_created": "2025-01-27 12:14:28",
+                "user": {
+                    "name": "Moy H."
+                }
+            },
+            {
+                "id": "CWuQcOssiEDaaB6QnEO9aw",
+                "rating": 5,
+                "text": "Chill is an unassuming restaurant in East Marlborough. The food is excellent, the bar is great, and the outside patio is wonderful. \n\nThey've helped me with...",
+                "time_created": "2024-10-29 10:00:01",
+                "user": {
+                    "name": "Gary K."
+                }
+            },
+            {
+                "id": "xD_NWg4kskUys2QN6I476A",
+                "rating": 4,
+                "text": "What a nice little hidden gem in a strip mall. We were at a local brewery in the same mall and decided we wanted something to eat. We got there around 8:45...",
+                "time_created": "2024-12-22 11:46:42",
+                "user": {
+                    "name": "Jay P."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1005,
+        "company": "Firefly's BBQ",
+        "yelp_business_id": "PwFR5tONXgNN6T5MBvVjqQ",
+        "yelp_data": {
+            "id": "PwFR5tONXgNN6T5MBvVjqQ",
+            "name": "Firefly's BBQ",
+            "rating": 4.3,
+            "review_count": 985,
+            "price": "$$",
+            "phone": "+15083578883",
+            "url": "https://www.yelp.com/biz/fireflys-bbq-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/a_BJvzh9oKIrKlfgSbAhnA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "wxFBc7VZFKYFYtqF9RzFtA",
+                "rating": 5,
+                "text": "I was in area and always wanted to try the wings.\nStopped if after 4 pm on Tuesday. \nPlace is massive in size, plenty of seats, bar seats.\nExcellent TVs...",
+                "time_created": "2024-11-05 18:56:53",
+                "user": {
+                    "name": "Jay M."
+                }
+            },
+            {
+                "id": "VOt7vTyCIpFQ5JdtYfFIKQ",
+                "rating": 5,
+                "text": "TLDR: great bbq, great sides \n\nVery pleasantly surprised to stumble upon this place. This place gets mad busy - we came in off hours and it was still fairly...",
+                "time_created": "2024-08-17 16:21:31",
+                "user": {
+                    "name": "Wern O."
+                }
+            },
+            {
+                "id": "AOChLa8VqKbPusOArUl3rg",
+                "rating": 5,
+                "text": "Five years ago, I wrote a five-star review of Firefly's BBQ. I don't usually return to update reviews unless I'm changing my rating -- so basically, I'm...",
+                "time_created": "2024-08-14 07:09:57",
+                "user": {
+                    "name": "Elizabeth S."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1006,
+        "company": "FISH Restaurant & Wine Bar",
+        "yelp_business_id": "laZfnZ6JkKeojzJ1rxxthA",
+        "yelp_data": {
+            "id": "laZfnZ6JkKeojzJ1rxxthA",
+            "name": "Salty Days Fish Cohasset",
+            "rating": 4.3,
+            "review_count": 24,
+            "price": null,
+            "phone": "+17813832500",
+            "url": "https://www.yelp.com/biz/salty-days-fish-cohasset-cohasset?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/FcoHTXZdGQ5shfp4Hz4_cA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "I1y5GN6SCZ2OBgUnei2fZQ",
+                "rating": 5,
+                "text": "Best bathroom on the South Shore, no contest. \n\nWhy start a restaurant review talking about bathrooms? \n\nBecause, my rule of thumb is that a restaurant's...",
+                "time_created": "2025-01-16 08:32:54",
+                "user": {
+                    "name": "Hogger K."
+                }
+            },
+            {
+                "id": "lD084BB46VW-m3jSTmH5hA",
+                "rating": 5,
+                "text": "Fintastic maki and fresh seafood dishes, warm, rich chowder and a delightfully cozy dining room stand out in this easily passed-by eatery and fish market by...",
+                "time_created": "2024-12-06 07:01:58",
+                "user": {
+                    "name": "Damien S."
+                }
+            },
+            {
+                "id": "nq5TxGCeooYbYeI6SIWAbQ",
+                "rating": 4,
+                "text": "Great little spot for fresh sushi and more -- not \"salty\" at all!\n\nI'm happy to say that Salty Days is one of the good speciality seafood places that you...",
+                "time_created": "2024-10-18 09:53:09",
+                "user": {
+                    "name": "John A."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1007,
+        "company": "Friendly's",
+        "yelp_business_id": "rxIUgtD5PnH1ARq20Vh9zQ",
+        "yelp_data": {
+            "id": "rxIUgtD5PnH1ARq20Vh9zQ",
+            "name": "Friendly's",
+            "rating": 2.2,
+            "review_count": 101,
+            "price": "$$",
+            "phone": "+15082511006",
+            "url": "https://www.yelp.com/biz/friendlys-marlborough-4?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/sSMDEc77LMCU8cupk_8g4g/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "3MaEf44D_IU_1JIW46zfew",
+                "rating": 5,
+                "text": "Compared to other Friendly's, this is a nice one.  It's a new building and even has a drive thru for some menu items like ice cream, burgers and sandwiches....",
+                "time_created": "2024-08-16 12:29:05",
+                "user": {
+                    "name": "Andi K."
+                }
+            },
+            {
+                "id": "MIj3F6mce_S88rNfdIvnBQ",
+                "rating": 1,
+                "text": "The woman I spoke with over the phone was rude and hung up on me when I asked her what her name was.  The food was cold, the burgers were about an 1/8 inch...",
+                "time_created": "2025-01-21 17:09:33",
+                "user": {
+                    "name": "Mary Ellen M."
+                }
+            },
+            {
+                "id": "-l3swJS-tBV6rcsfsNr70Q",
+                "rating": 1,
+                "text": "Dined here a few weeks ago and was overcharged on my credit card. Instead of disputing my credit card, I decided to call them to explain the situation and...",
+                "time_created": "2024-03-26 23:59:17",
+                "user": {
+                    "name": "Jessica L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1008,
+        "company": "Funky Murphy's Bar & Grill",
+        "yelp_business_id": "BHRiNL_aMX0SAZsWJXUmwQ",
+        "yelp_data": {
+            "id": "BHRiNL_aMX0SAZsWJXUmwQ",
+            "name": "Funky Murphy's",
+            "rating": 2.9,
+            "review_count": 93,
+            "price": "$$",
+            "phone": "+15082512771",
+            "url": "https://www.yelp.com/biz/funky-murphys-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/JMFiKq6Vzr-Rg_G-1mZJnw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "1PkA-oXqwuvabBe-mpSstQ",
+                "rating": 5,
+                "text": "Came here on my mom's recommendation. I always pass by when I'm here on vacation.  \n\nI walk in and it has an old school TGIF vibe to it but in a good way...",
+                "time_created": "2024-12-23 18:52:46",
+                "user": {
+                    "name": "Mike J."
+                }
+            },
+            {
+                "id": "YOjlv1jwr6kKThdJlF7W1w",
+                "rating": 5,
+                "text": "I was hungry for something other than fast food at 11:30 PM. This place fit the bill and mozzarella sticks were great. They weren't the cheap nasty ones you...",
+                "time_created": "2023-12-27 20:24:37",
+                "user": {
+                    "name": "James L."
+                }
+            },
+            {
+                "id": "E_EexEAAJC--Q3vgzNrFTA",
+                "rating": 3,
+                "text": "Beers and bar food - yes.   Fancy entrees, no.   Also, I don't know if they still do brunch but the brunch for me was a hard pass, comparable to e mediocre...",
+                "time_created": "2023-10-26 15:39:13",
+                "user": {
+                    "name": "Dawn E."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1009,
+        "company": "Kennedy's Restaurant, Pub and Market",
+        "yelp_business_id": "QTbxMqqcutAuXNsUmYARDA",
+        "yelp_data": {
+            "id": "QTbxMqqcutAuXNsUmYARDA",
+            "name": "Kennedy's Pub Inc",
+            "rating": 3.5,
+            "review_count": 200,
+            "price": "$$",
+            "phone": "+15084855800",
+            "url": "https://www.yelp.com/biz/kennedys-pub-inc-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/eEvbZvt02eby2ru-lEYncg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "cjvHcbGqsWqHaKK-SMLSOA",
+                "rating": 5,
+                "text": "Kennedys has been one of my family's favorite restaurants for years but recently we were able to experience dining outdoors in their gorgeous new yurts -...",
+                "time_created": "2024-12-15 13:42:38",
+                "user": {
+                    "name": "Amanda J."
+                }
+            },
+            {
+                "id": "YnDmtCFN8aZqR1nxdhaMNw",
+                "rating": 5,
+                "text": "Wonderful Staff!\nI enjoyed sitting and eating at the bar at lunchtime!!\nPhilly Cheesesteak Sandwich and Waffle Fries was a special on the best roll I think...",
+                "time_created": "2024-12-24 17:29:55",
+                "user": {
+                    "name": "Jean A."
+                }
+            },
+            {
+                "id": "WwIzo5vOA223nviTkWVTcQ",
+                "rating": 5,
+                "text": "I'm going to caveat this review with many little diddies. But you HAVE to give 5 stars for service and that is the end of that.\n\nThe pub continues to be...",
+                "time_created": "2024-10-31 04:00:45",
+                "user": {
+                    "name": "Rita V."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1010,
+        "company": "Longhorn Steakhouse",
+        "yelp_business_id": "OIMEV6XtYNMWzPqodV322w",
+        "yelp_data": {
+            "id": "OIMEV6XtYNMWzPqodV322w",
+            "name": "LongHorn Steakhouse",
+            "rating": 3.4,
+            "review_count": 160,
+            "price": "$$",
+            "phone": "+15084814100",
+            "url": "https://www.yelp.com/biz/longhorn-steakhouse-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/aZp6I0wHdBqUfRlopGdXag/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "iQ-UtKsd55HGbBUPqT1vqA",
+                "rating": 4,
+                "text": "I haven't been to longhorn in a while but when I'm craving steak and margaritas... where else would I go? \n\nThe new dragonfruit margarita was SO good. I...",
+                "time_created": "2024-08-06 22:23:02",
+                "user": {
+                    "name": "Abigail C."
+                }
+            },
+            {
+                "id": "O9gH6oqDiHYfFmInj6Yutw",
+                "rating": 4,
+                "text": "We got there just before 10 PM after doing some Christmas shopping in the area we were greeted cheerfully our party of five which included my two-year-old...",
+                "time_created": "2024-12-15 00:44:50",
+                "user": {
+                    "name": "Frank M."
+                }
+            },
+            {
+                "id": "alpnFAOLIbnODysXuB8mpw",
+                "rating": 2,
+                "text": "This is a restaurant I do want to see succeeded. Been coming here for over 10 years now and the service has always been pretty good.\nHowever, the food...",
+                "time_created": "2025-01-24 17:04:23",
+                "user": {
+                    "name": "Kendra T."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1011,
+        "company": "Ninety Nine Restaurant & Pub",
+        "yelp_business_id": "qRTGPZwNJx-dagJ5cEyS6w",
+        "yelp_data": {
+            "id": "qRTGPZwNJx-dagJ5cEyS6w",
+            "name": "Ninety Nine Restaurant & Pub",
+            "rating": 3.2,
+            "review_count": 31,
+            "price": "$$",
+            "phone": "+17819325000",
+            "url": "https://www.yelp.com/biz/ninety-nine-restaurant-and-pub-woburn?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/NGvZQ4Bu5VzPA9icrK3Vqg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "NHnQYuiYoHXqVx7V3_JxPg",
+                "rating": 5,
+                "text": "Went here for lunch with my boyfriend. We're on vacation and needed to grab some lunch and OMG...the food was spectacular. I had a strawberry margarita with...",
+                "time_created": "2022-08-17 11:54:21",
+                "user": {
+                    "name": "Ana S."
+                }
+            },
+            {
+                "id": "dP5WbxEtfEVJw2c_VpWp_g",
+                "rating": 4,
+                "text": "Really like he lobster rolls .. if you don't find yourself on the coast but a lobster roll sounds good .. give it a try",
+                "time_created": "2024-05-19 10:32:46",
+                "user": {
+                    "name": "Kim H."
+                }
+            },
+            {
+                "id": "hhnpy2BMN7OPtPG8n32lFg",
+                "rating": 1,
+                "text": "Well i went to the 99 in North Quincy Ma. 8::40 door was locked people still seated. I was like wtf as i m driving away 2 cars 3 and 5 came to the door just...",
+                "time_created": "2023-07-11 18:23:29",
+                "user": {
+                    "name": "Joseph M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1012,
+        "company": "Stephen Anthony's Restaurant",
+        "yelp_business_id": "KYHQF5Z7GAVlN3Dqb7n7pQ",
+        "yelp_data": {
+            "id": "KYHQF5Z7GAVlN3Dqb7n7pQ",
+            "name": "Stephen Anthony's Restaurant",
+            "rating": 2.9,
+            "review_count": 177,
+            "price": "$$",
+            "phone": "+15084609618",
+            "url": "https://www.yelp.com/biz/stephen-anthonys-restaurant-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/M0QT3896T4EVeKT3-7IAqA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "UvtwxEKaVK_btTHv18XtCw",
+                "rating": 4,
+                "text": "Always a good breakfast at a great price. \n\nWent last Saturday with my mom and her friends. I kept it simple with 2 eggs scrambled, bacon, home fries and...",
+                "time_created": "2024-01-18 13:32:12",
+                "user": {
+                    "name": "Jessica S."
+                }
+            },
+            {
+                "id": "dCk2AA2zXG9kZq1gi20Ung",
+                "rating": 1,
+                "text": "This place has experienced the ultimate downfall. First off, if I could give it zero stars I would. When our group arrived they were lacking any form of...",
+                "time_created": "2024-12-24 08:50:55",
+                "user": {
+                    "name": "William J."
+                }
+            },
+            {
+                "id": "9Z8tV5GM7-uQ4IFXFUGOOg",
+                "rating": 3,
+                "text": "Me and my boyfriend waited for about 5 minutes at the door before anyone spoke to us. The bartender told us to just come sit at the bar if we wanted to eat...",
+                "time_created": "2023-04-25 10:24:23",
+                "user": {
+                    "name": "Abigail C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1013,
+        "company": "TGI Friday's",
+        "yelp_business_id": "BO8QCbDc8Mj9UjJkIOqAtg",
+        "yelp_data": {
+            "id": "BO8QCbDc8Mj9UjJkIOqAtg",
+            "name": "TGI Fridays",
+            "rating": 2.1,
+            "review_count": 136,
+            "price": "$$",
+            "phone": "+15088659189",
+            "url": "https://www.yelp.com/biz/tgi-fridays-millbury?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/b0GjXZq3SeZmVXsA4e-iiA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "VyNrkwoJTa3ZWSfImWtzbQ",
+                "rating": 3,
+                "text": "This was our first time at this TGIF; it's been years since I visited any of the others. Our server was friendly and pleasant; we were given menus and had...",
+                "time_created": "2024-09-06 16:26:33",
+                "user": {
+                    "name": "Nancy K."
+                }
+            },
+            {
+                "id": "d_H_nvQZ_hktirn0t-hsFQ",
+                "rating": 5,
+                "text": "I haven't been to a TGI Fridays in a whileee, so this visit was extra special. There's always a happy nostalgic feeling I get when I walk into a Fridays....",
+                "time_created": "2024-06-30 18:07:06",
+                "user": {
+                    "name": "Ashlyn P."
+                }
+            },
+            {
+                "id": "-OpfHM51l72W_smCy4Za1w",
+                "rating": 1,
+                "text": "We ordered take out and got home and realized that there was a hair literally cooked into the cheese of the cheeseburger. I have had my fair share of hair...",
+                "time_created": "2024-08-03 16:50:48",
+                "user": {
+                    "name": "Elijah Zaire M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1015,
+        "company": "Welly's Restaurant",
+        "yelp_business_id": "--CprxtcUfzKoz29hAzm5w",
+        "yelp_data": {
+            "id": "--CprxtcUfzKoz29hAzm5w",
+            "name": "Welly's Restaurant",
+            "rating": 4.0,
+            "review_count": 313,
+            "price": "$$",
+            "phone": "+15082812091",
+            "url": "https://www.yelp.com/biz/wellys-restaurant-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/KyWT-lbEEPNDeQypVMsoow/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "eus742rRkGNxTJHdBdZYSQ",
+                "rating": 5,
+                "text": "Funny side story, I read the reviews and they all seemed good but I got the locations mixed up. I was thinking it was Remmys and went to visit my friend...",
+                "time_created": "2024-12-11 16:11:33",
+                "user": {
+                    "name": "Mike J."
+                }
+            },
+            {
+                "id": "Qeo7jlE4l_peJZ9kywe10A",
+                "rating": 5,
+                "text": "After an afternoon of wine tasting at a local winery, we stopped for lunch today after seeing this on local foodie show (months ago) \"The Phantom Gourmet\"....",
+                "time_created": "2024-09-27 13:35:02",
+                "user": {
+                    "name": "Janice C."
+                }
+            },
+            {
+                "id": "4Ig1VEjzpOunWLPZjKWAUA",
+                "rating": 3,
+                "text": "Drinks were good, however service was slow. Ordered the godfather pizza, came out with extra toppings not listed in the menu, a new pizza was made and...",
+                "time_created": "2024-09-22 17:03:36",
+                "user": {
+                    "name": "Henrietta F."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1016,
+        "company": "Wildwood Steakhouse",
+        "yelp_business_id": "PwFR5tONXgNN6T5MBvVjqQ",
+        "yelp_data": {
+            "id": "PwFR5tONXgNN6T5MBvVjqQ",
+            "name": "Firefly's BBQ",
+            "rating": 4.3,
+            "review_count": 985,
+            "price": "$$",
+            "phone": "+15083578883",
+            "url": "https://www.yelp.com/biz/fireflys-bbq-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/a_BJvzh9oKIrKlfgSbAhnA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "wxFBc7VZFKYFYtqF9RzFtA",
+                "rating": 5,
+                "text": "I was in area and always wanted to try the wings.\nStopped if after 4 pm on Tuesday. \nPlace is massive in size, plenty of seats, bar seats.\nExcellent TVs...",
+                "time_created": "2024-11-05 18:56:53",
+                "user": {
+                    "name": "Jay M."
+                }
+            },
+            {
+                "id": "VOt7vTyCIpFQ5JdtYfFIKQ",
+                "rating": 5,
+                "text": "TLDR: great bbq, great sides \n\nVery pleasantly surprised to stumble upon this place. This place gets mad busy - we came in off hours and it was still fairly...",
+                "time_created": "2024-08-17 16:21:31",
+                "user": {
+                    "name": "Wern O."
+                }
+            },
+            {
+                "id": "AOChLa8VqKbPusOArUl3rg",
+                "rating": 5,
+                "text": "Five years ago, I wrote a five-star review of Firefly's BBQ. I don't usually return to update reviews unless I'm changing my rating -- so basically, I'm...",
+                "time_created": "2024-08-14 07:09:57",
+                "user": {
+                    "name": "Elizabeth S."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1017,
+        "company": "Double T's Weed Street Tavern",
+        "yelp_business_id": "-G_N8I-SY0QUJJHwBfqKpA",
+        "yelp_data": {
+            "id": "-G_N8I-SY0QUJJHwBfqKpA",
+            "name": "Stone\u2019s Public House",
+            "rating": 3.9,
+            "review_count": 542,
+            "price": "$$",
+            "phone": "+15088811778",
+            "url": "https://www.yelp.com/biz/stone-s-public-house-ashland?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/t9Di6MG9LM3uxee0BgIA5A/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "6sZ-KIgRiyWgIkc3zqOUZg",
+                "rating": 5,
+                "text": "New England charm with delicious food. \n1.  Go into the bar area \n2.  Sit by the fireplace \n3. Order a beverage and food\n4. Absorb the atmosphere",
+                "time_created": "2025-01-03 09:24:21",
+                "user": {
+                    "name": "Carol L."
+                }
+            },
+            {
+                "id": "pAgeHrLL5nqNPVX3JUcE4g",
+                "rating": 3,
+                "text": "I've been a loyal diner for a number of years...always great service...and in winter there isn't a better place to grab a hot plate of food, great drinks...",
+                "time_created": "2025-01-20 06:24:22",
+                "user": {
+                    "name": "David H."
+                }
+            },
+            {
+                "id": "RrP8jnPhh9aPZtVeDP60FA",
+                "rating": 5,
+                "text": "First time here!  \n\nI had the Lobster roll which was excellent, and our service and server was very pleasant, provided Erica B!  \n\nWe sat out in the back...",
+                "time_created": "2024-09-02 09:51:02",
+                "user": {
+                    "name": "Ken O."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1018,
+        "company": "Eastside Grille",
+        "yelp_business_id": "yycn8BXeRWA-gVXoONyZoA",
+        "yelp_data": {
+            "id": "yycn8BXeRWA-gVXoONyZoA",
+            "name": "Eastside Grill",
+            "rating": 3.3,
+            "review_count": 214,
+            "price": "$$",
+            "phone": "+14135863347",
+            "url": "https://www.yelp.com/biz/eastside-grill-northampton?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/L1mVJiBVFEI_88yPB6DgSQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "ry1ZB-RCs1K6N69NbMh2_g",
+                "rating": 5,
+                "text": "Ok yum!\nWe wanted to try a new place in Northampton instead of our usual spots and I am so glad we did! \nMy fianc\u00e9 and I both got the 12 oz steak which was...",
+                "time_created": "2025-01-24 16:59:24",
+                "user": {
+                    "name": "Paige Y."
+                }
+            },
+            {
+                "id": "4ahr7a-K0qSY98BGp24enQ",
+                "rating": 5,
+                "text": "Awesome dinner last night. I like that they have half portions on some dishes. I had the half Jumbalya and app of blackened scallops together. Very tasty...",
+                "time_created": "2024-06-02 03:19:35",
+                "user": {
+                    "name": "Eddie R."
+                }
+            },
+            {
+                "id": "hM8M_U6vvtZuijNpdnaKBw",
+                "rating": 3,
+                "text": "We had a family celebration there a couple of months ago. We went there, because their steaks got good reviews, and that's what the birthday guy wanted for...",
+                "time_created": "2024-10-25 07:25:55",
+                "user": {
+                    "name": "Michelle S."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1019,
+        "company": "Pit Stop Tavern",
+        "yelp_business_id": "49shyB2A36wp7uvkGP5ehw",
+        "yelp_data": {
+            "id": "49shyB2A36wp7uvkGP5ehw",
+            "name": "Apex Entertainment Marlborough",
+            "rating": 3.4,
+            "review_count": 263,
+            "price": "$$",
+            "phone": "+15082518666",
+            "url": "https://www.yelp.com/biz/apex-entertainment-marlborough-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/W_MUn8kg9SLmBNWKxszooA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "rVo_4IIuqoClrADLKHdOWA",
+                "rating": 5,
+                "text": "We had an awesome experience at Apex Entertainment!  What an incredible facility!  We did Laser Tag, Bumper cars, ropes course and played in the arcade....",
+                "time_created": "2024-12-29 17:54:47",
+                "user": {
+                    "name": "Elizabeth M."
+                }
+            },
+            {
+                "id": "yogndy66WTOqWzA3ZOqqJg",
+                "rating": 3,
+                "text": "Bad experience brought cupcakes that I had made with no peanuts or nuts  waitress did not even read label and was told to remove them will never do business...",
+                "time_created": "2025-01-30 13:35:17",
+                "user": {
+                    "name": "Jack F."
+                }
+            },
+            {
+                "id": "GtQ-M9oudKKrdNi5Ml9E7A",
+                "rating": 5,
+                "text": "I am going w company party. I  tried the arcade it was alot of options which is awesome. They also served us foods mash potato, chicken stuffing, steak...",
+                "time_created": "2024-11-21 13:45:40",
+                "user": {
+                    "name": "Irena K."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1020,
+        "company": "Stone 31",
+        "yelp_business_id": "SzVKdGQbD957NCN8d5PqGA",
+        "yelp_data": {
+            "id": "SzVKdGQbD957NCN8d5PqGA",
+            "name": "Linguine's Italian Eatery",
+            "rating": 3.8,
+            "review_count": 404,
+            "price": "$$",
+            "phone": "+15084819747",
+            "url": "https://www.yelp.com/biz/linguines-italian-eatery-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/E0o5-tv4SdO6X9BIMJkEZA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "MMCnJJbNUzrY04pZJFpzKg",
+                "rating": 4,
+                "text": "I was in Marlborough for work and found this place while out for an evening walk.  Super busy and lively. Loud but not so loud that it made it difficult to...",
+                "time_created": "2024-11-20 05:39:02",
+                "user": {
+                    "name": "Bob D."
+                }
+            },
+            {
+                "id": "MP6jVnXxvr3ri3Qftioqww",
+                "rating": 4,
+                "text": "Per my friends I was visiting in Hudson, MA earlier this year - we HAD to go to Linguine's for dinner. The restaurant used to be much larger, but they...",
+                "time_created": "2024-10-12 06:21:35",
+                "user": {
+                    "name": "Rachel B."
+                }
+            },
+            {
+                "id": "Hhn2vG6a9Hh_UwVqJA1DQg",
+                "rating": 5,
+                "text": "I have been eating here for 20+ years and have enjoyed every single meal.  Great staff, super nice family, and high quality food at a great value.",
+                "time_created": "2025-01-20 10:54:14",
+                "user": {
+                    "name": "Jim C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1021,
+        "company": "The Bistro",
+        "yelp_business_id": "MH6G0yTNzkl8NfWYsSlQbw",
+        "yelp_data": {
+            "id": "MH6G0yTNzkl8NfWYsSlQbw",
+            "name": "The Bistro",
+            "rating": 2.8,
+            "review_count": 4,
+            "price": null,
+            "phone": "+15084800015",
+            "url": "https://www.yelp.com/biz/the-bistro-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/nb3nYfr4ug8Ecs56pTj0eg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "ErEfz6OcTfNp4RT4L9fy6g",
+                "rating": 5,
+                "text": "Wow what a very nice place! \n\nI always go to the Bistro at the Anaheim Marriott and it's amazing.  I was excited to see they have one as well on limited...",
+                "time_created": "2024-11-30 12:21:28",
+                "user": {
+                    "name": "Mike J."
+                }
+            },
+            {
+                "id": "XXZJcb6DtMMYTLuRDrL4Gw",
+                "rating": 1,
+                "text": "Food is pre made, overpriced and under seasoned.  This is nothing more than a subway with a microwave and a turbo convection oven re-heating pre packaged...",
+                "time_created": "2016-06-08 17:20:16",
+                "user": {
+                    "name": "Ed Y."
+                }
+            },
+            {
+                "id": "DYVkHbxnLb-n2n1OueBK1w",
+                "rating": 4,
+                "text": "For being inside the hotel I have to say they have great customer service . I had Jon help me throughout my stay and the Shrimp potstickers and the Chicken...",
+                "time_created": "2014-05-28 16:19:43",
+                "user": {
+                    "name": "Gwendolyn L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1022,
+        "company": "The Fix Burger Bar",
+        "yelp_business_id": "56wq36VWvw-qIBEmlISVlQ",
+        "yelp_data": {
+            "id": "56wq36VWvw-qIBEmlISVlQ",
+            "name": "The Fix Burger Bar",
+            "rating": 3.6,
+            "review_count": 166,
+            "price": "$$",
+            "phone": "+15085731819",
+            "url": "https://www.yelp.com/biz/the-fix-burger-bar-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/m4DaRbkydo_84q6qW5vcfg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "3tujlys96dxK-zzKIX5SPw",
+                "rating": 4,
+                "text": "No complaints. Very large space that gets busy though it wasn't a long wait with our reservation before driving over. \n\nFew places you see a variety of...",
+                "time_created": "2024-11-12 15:07:56",
+                "user": {
+                    "name": "Kristen K."
+                }
+            },
+            {
+                "id": "Ah5Eh_O3ZmF9Zbc70FKUcw",
+                "rating": 3,
+                "text": "Pistachio desert was pretty mid, it felt like they just bought some industrial one and put whipped cream on it. Zero flavor and the texture was like, not...",
+                "time_created": "2024-08-10 19:38:29",
+                "user": {
+                    "name": "Kiri C."
+                }
+            },
+            {
+                "id": "GYGYD2zpta1L6dw2qXXP4g",
+                "rating": 4,
+                "text": "OMG the poutine was amazing! The portion was enough for 4 people! Order it with bacon AND chicken.  So good and cheesy! I wish it was a bit heavier on the...",
+                "time_created": "2025-01-20 15:28:04",
+                "user": {
+                    "name": "Libbie A."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1023,
+        "company": "Bertucci's",
+        "yelp_business_id": "UI_f0IJYuagquXl_lNFqaA",
+        "yelp_data": {
+            "id": "UI_f0IJYuagquXl_lNFqaA",
+            "name": "Bertucci's Italian Restaurant",
+            "rating": 3.1,
+            "review_count": 140,
+            "price": "$$",
+            "phone": "+15088983074",
+            "url": "https://www.yelp.com/biz/bertuccis-italian-restaurant-westborough-4?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/-tE7kQwLaNfovOCzN4ZzrA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "F_3m0ty5cGQ_sGUqkVPcAw",
+                "rating": 4,
+                "text": "Hadn't been to a Bertucci's since maybe high school, but we have ordered from here a couple times since moving back to MA. We have gotten Bertucci's version...",
+                "time_created": "2024-09-27 18:26:54",
+                "user": {
+                    "name": "Helen Z."
+                }
+            },
+            {
+                "id": "hCbIc7YKX3tdqfPPJi_p6A",
+                "rating": 1,
+                "text": "They should be ashamed charging $23 for spaghetti and \"meat sauce\" with about 4 pieces of meat and a tablespoon of sauce. \n\nThe tiny bit of sauce that they...",
+                "time_created": "2024-11-27 18:00:48",
+                "user": {
+                    "name": "Leeta W."
+                }
+            },
+            {
+                "id": "2tGwlt4wg8heWllZgpkEpw",
+                "rating": 2,
+                "text": "Our family has dined at Bertucci's restaurants since 1987-1988, dating back to when they were located in Marlborough off of route 20.  Over the years, we've...",
+                "time_created": "2024-11-11 04:50:16",
+                "user": {
+                    "name": "Warren L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1024,
+        "company": "Evviva Trattoria",
+        "yelp_business_id": "EWbj_GA8cnmSgijP8RP4XQ",
+        "yelp_data": {
+            "id": "EWbj_GA8cnmSgijP8RP4XQ",
+            "name": "Evviva Trattoria - Marlborough",
+            "rating": 3.8,
+            "review_count": 242,
+            "price": "$$",
+            "phone": "+17748432599",
+            "url": "https://www.yelp.com/biz/evviva-trattoria-marlborough-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/NTnzdiY7UWPJwPRS1PjZ5Q/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "arQbmVwUQSDJxN9yem941w",
+                "rating": 4,
+                "text": "I wanted to eat Italian and we found this place while we were exploring. Once we got there, we were seated right away. We ordered the Brussels sprouts...",
+                "time_created": "2024-09-30 16:47:21",
+                "user": {
+                    "name": "Sarah M."
+                }
+            },
+            {
+                "id": "SvdH7RKm5WtqEetwpWza6Q",
+                "rating": 5,
+                "text": "My family was visiting from another state so we had a reunion dinner at Evviva Trattoria, Jasmine was our server and she was amazing! We were sat in the...",
+                "time_created": "2024-09-05 19:02:40",
+                "user": {
+                    "name": "Abigail C."
+                }
+            },
+            {
+                "id": "SbTgCYQVBsmdLy4VJPgyLw",
+                "rating": 4,
+                "text": "3.5 stars if I could. Overall, the food was a little bit higher and chain Italian food. The service was fantastic very timely, Very kind waiter. Refilled...",
+                "time_created": "2025-01-25 09:20:52",
+                "user": {
+                    "name": "MaryJean Z."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1025,
+        "company": "Linguine's",
+        "yelp_business_id": "SzVKdGQbD957NCN8d5PqGA",
+        "yelp_data": {
+            "id": "SzVKdGQbD957NCN8d5PqGA",
+            "name": "Linguine's Italian Eatery",
+            "rating": 3.8,
+            "review_count": 404,
+            "price": "$$",
+            "phone": "+15084819747",
+            "url": "https://www.yelp.com/biz/linguines-italian-eatery-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/E0o5-tv4SdO6X9BIMJkEZA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "MMCnJJbNUzrY04pZJFpzKg",
+                "rating": 4,
+                "text": "I was in Marlborough for work and found this place while out for an evening walk.  Super busy and lively. Loud but not so loud that it made it difficult to...",
+                "time_created": "2024-11-20 05:39:02",
+                "user": {
+                    "name": "Bob D."
+                }
+            },
+            {
+                "id": "MP6jVnXxvr3ri3Qftioqww",
+                "rating": 4,
+                "text": "Per my friends I was visiting in Hudson, MA earlier this year - we HAD to go to Linguine's for dinner. The restaurant used to be much larger, but they...",
+                "time_created": "2024-10-12 06:21:35",
+                "user": {
+                    "name": "Rachel B."
+                }
+            },
+            {
+                "id": "Hhn2vG6a9Hh_UwVqJA1DQg",
+                "rating": 5,
+                "text": "I have been eating here for 20+ years and have enjoyed every single meal.  Great staff, super nice family, and high quality food at a great value.",
+                "time_created": "2025-01-20 10:54:14",
+                "user": {
+                    "name": "Jim C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1026,
+        "company": "Olive Garden",
+        "yelp_business_id": "XUbM1FeToadQxA_glrwRlA",
+        "yelp_data": {
+            "id": "XUbM1FeToadQxA_glrwRlA",
+            "name": "Olive Garden Italian Restaurant",
+            "rating": 2.9,
+            "review_count": 142,
+            "price": "$$",
+            "phone": "+15083036558",
+            "url": "https://www.yelp.com/biz/olive-garden-italian-restaurant-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/AbgK2ZR7eH0emJIKI69J3Q/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "B6XU23uYVfxLg4rtTD0nrA",
+                "rating": 5,
+                "text": "our food was so good and well seasoned! the restaurant feels very homey and authentic italian vibes (i've been to italy). our server was so attentive and...",
+                "time_created": "2024-12-20 17:52:20",
+                "user": {
+                    "name": "Fiona W."
+                }
+            },
+            {
+                "id": "U_h1ZtWg2WzXYbq-h19t3Q",
+                "rating": 1,
+                "text": "I have been trying to give this location multiple chances for the past couple of years, but they don't seem to really care. I've talked to the managers here...",
+                "time_created": "2025-01-22 11:21:02",
+                "user": {
+                    "name": "Kendra T."
+                }
+            },
+            {
+                "id": "C86QoscVGG3ZuBT8HFz_9w",
+                "rating": 1,
+                "text": "My husband and I walked in for the lunch special. Hostess was pleasant and we were seated immediately. That is the only good thing about that restaurant. We...",
+                "time_created": "2024-11-29 12:22:25",
+                "user": {
+                    "name": "Ellie G."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1027,
+        "company": "Chez Siam Restaurant",
+        "yelp_business_id": "YHMtc3aIPfqsXq3QFdxMDg",
+        "yelp_data": {
+            "id": "YHMtc3aIPfqsXq3QFdxMDg",
+            "name": "Chez Siam",
+            "rating": 3.7,
+            "review_count": 105,
+            "price": "$$",
+            "phone": "+15084853880",
+            "url": "https://www.yelp.com/biz/chez-siam-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/OcfdpHqBi-ZzH7ajKOAC7A/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "piadGdZ1fZYXApOWYubwsg",
+                "rating": 5,
+                "text": "Food was good and up to my liking. Flavors were there and the texture was also spot on. There were some things I would change about the food, but I won't...",
+                "time_created": "2023-06-21 20:12:22",
+                "user": {
+                    "name": "Aaron Y."
+                }
+            },
+            {
+                "id": "ZNpTkoLA19-RXnwp1Y2MWQ",
+                "rating": 5,
+                "text": "Consistently good every time. Chez Siam is our go to for Thai - twice every month for 15-20 years",
+                "time_created": "2024-05-04 16:23:57",
+                "user": {
+                    "name": "David M."
+                }
+            },
+            {
+                "id": "e5jCxOhLV5n-5A9t2Qx3yQ",
+                "rating": 5,
+                "text": "Very nice service and delicious food! Definitely recommend to anyone in the area!  The Thai tea is a must.",
+                "time_created": "2024-03-22 17:51:50",
+                "user": {
+                    "name": "Alex Z."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1028,
+        "company": "Crazy Stone",
+        "yelp_business_id": "m_9q3NzHyzHfeKWAE-iMJA",
+        "yelp_data": {
+            "id": "m_9q3NzHyzHfeKWAE-iMJA",
+            "name": "Crazy Stone",
+            "rating": 4.5,
+            "review_count": 195,
+            "price": "$$",
+            "phone": "+15085731732",
+            "url": "https://www.yelp.com/biz/crazy-stone-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/aeHh-QT6CqW-cwyrveD4_A/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "-obcNnRe_uxIvSYn27wUEA",
+                "rating": 5,
+                "text": "Passing by Crazy Stone on Rt. 20, there is not much curb appeal and the exterior might not do much to draw you in. But...once inside, we quickly felt the...",
+                "time_created": "2024-12-23 21:43:45",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "gBfsAACJmLddZ1OXZZNkkg",
+                "rating": 4,
+                "text": "As Sushi spots go, and as the reviews suggest, Crazy Stone is one of the better ones in this area. \n\nWe enjoyed our recent experience here -- the food, the...",
+                "time_created": "2024-11-20 11:11:38",
+                "user": {
+                    "name": "Dave R."
+                }
+            },
+            {
+                "id": "NEpNZ25Ewx7fx1oht472Jw",
+                "rating": 5,
+                "text": "Had to stop by here because of the amazing reviews that this place has. Everyone working there was so kind and attentive, making sure that all of our...",
+                "time_created": "2024-11-09 12:32:17",
+                "user": {
+                    "name": "Miranda G."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1029,
+        "company": "Ginger Garden",
+        "yelp_business_id": "3mYa5e5zBso0OD8ztF8TPQ",
+        "yelp_data": {
+            "id": "3mYa5e5zBso0OD8ztF8TPQ",
+            "name": "Ginger Garden",
+            "rating": 3.7,
+            "review_count": 118,
+            "price": "$$",
+            "phone": "+15082812066",
+            "url": "https://www.yelp.com/biz/ginger-garden-marlborough-5?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/qbAmPSrYC-MIQaoJnGTrZA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "0Tp2p_GvfHiUk7WfLz2Q_A",
+                "rating": 5,
+                "text": "We started going here after Joy Asia (RIP) closed, and we can't say enough good things about Ginger Garden.\n\nExcellent food, really good drinks, great...",
+                "time_created": "2023-12-03 09:10:05",
+                "user": {
+                    "name": "Dawn B."
+                }
+            },
+            {
+                "id": "ckLUp00ktwb1qKeMESZSMw",
+                "rating": 3,
+                "text": "This well established local restaurant has hibachi, sushi, and typical American Chinese food. After our first visit, it's hard to say what their speciality...",
+                "time_created": "2023-11-11 07:13:52",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "bO96OGUO0Rgjn8kISQhigA",
+                "rating": 1,
+                "text": "We got a takeout order. The food that we could actually eat was good, but part of our order was Chu Chow Three Delight which, according to the menu, has...",
+                "time_created": "2024-09-28 11:26:21",
+                "user": {
+                    "name": "Joyce P."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1030,
+        "company": "Marlborough Super Buffet",
+        "yelp_business_id": "dRd3cR8MwYWyNp4FyXHiMg",
+        "yelp_data": {
+            "id": "dRd3cR8MwYWyNp4FyXHiMg",
+            "name": "Marlborough Super Buffet",
+            "rating": 2.8,
+            "review_count": 105,
+            "price": "$$",
+            "phone": "+15082298889",
+            "url": "https://www.yelp.com/biz/marlborough-super-buffet-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/hlPpHWfr7hf-sudYFuRQcQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "5gA2b3R3gE485waOVskqvQ",
+                "rating": 5,
+                "text": "$12.95 for weekday lunch buffet is a crazy good price and the food is great as well! Coming from the city where all you can eat prices are $20 or higher...",
+                "time_created": "2025-01-07 15:10:25",
+                "user": {
+                    "name": "Brian W."
+                }
+            },
+            {
+                "id": "M1EtWmgHLYIGJgdV_yIK4A",
+                "rating": 4,
+                "text": "Sometimes you just want a cheap buffet to go ham on. If that's you, this place is excellent. \n\nNot the freshest fare, but the price is good for weekday...",
+                "time_created": "2024-08-10 18:43:53",
+                "user": {
+                    "name": "Kiri C."
+                }
+            },
+            {
+                "id": "qQI5MbAyTJwEC8P9cFi0qQ",
+                "rating": 5,
+                "text": "My wife favorite restaurant. She loves it and goes there often with her friends. I have tried their food as well and loved it.",
+                "time_created": "2024-10-17 11:57:10",
+                "user": {
+                    "name": "Bahman K."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1031,
+        "company": "Mirchi Nation",
+        "yelp_business_id": "5ZyMXLYwM6vONKbsaam9cw",
+        "yelp_data": {
+            "id": "5ZyMXLYwM6vONKbsaam9cw",
+            "name": "Mirchi Nation-Indian Kitchen",
+            "rating": 4.1,
+            "review_count": 270,
+            "price": "$$",
+            "phone": "+15083576551",
+            "url": "https://www.yelp.com/biz/mirchi-nation-indian-kitchen-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/32vGhxhgd6gN_uBjEqxkzw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "g6Q_PeOw8_V2p_I9kBFVow",
+                "rating": 5,
+                "text": "Awesome place to try out pretty authentic Indian cuisine. Fairly priced and great customer service. \nCovers a lot of South Indian specialty items and...",
+                "time_created": "2024-09-26 15:33:23",
+                "user": {
+                    "name": "Nate M."
+                }
+            },
+            {
+                "id": "zFp4z_lf4kY7r53vuM64XQ",
+                "rating": 4,
+                "text": "The food here is not the best Indian food I've had in MA, but it's not bad at all! We have had butter chicken and chicken tikka masala here. I think I...",
+                "time_created": "2024-12-06 16:35:44",
+                "user": {
+                    "name": "Helen Z."
+                }
+            },
+            {
+                "id": "JpmU8ev_MTEsXQimN6KyKA",
+                "rating": 5,
+                "text": "Best Indian food around! I came here the day before thanksgiving and had seen the place a couple of times and always wanted to try it. They were busy but...",
+                "time_created": "2024-12-04 16:22:52",
+                "user": {
+                    "name": "Sam S."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1032,
+        "company": "Okami Hibachi & Sushi",
+        "yelp_business_id": "ZvSNXkkXY5sKnlzmDpwJRg",
+        "yelp_data": {
+            "id": "ZvSNXkkXY5sKnlzmDpwJRg",
+            "name": "Mosaka Hibachi",
+            "rating": 4.0,
+            "review_count": 36,
+            "price": null,
+            "phone": "+15086308586",
+            "url": "https://www.yelp.com/biz/mosaka-hibachi-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/ml8sUSMKXO0zt7SmGESFUw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "pi9ualif-zyPC_2TNhRwCA",
+                "rating": 5,
+                "text": "great service, the waiter came right up in quick time took my drink order and came back in no time. Always checking up on me where it wasn't to much but yet...",
+                "time_created": "2024-12-16 16:42:38",
+                "user": {
+                    "name": "Ivan A."
+                }
+            },
+            {
+                "id": "XkBPlqovRfm500jpNnG5xg",
+                "rating": 5,
+                "text": "Michael was our server and was absolutely fantastic and attentive. He came at the exact times we needed him. He even offered my little one a Japanese soda...",
+                "time_created": "2024-10-07 16:55:46",
+                "user": {
+                    "name": "Daisy E."
+                }
+            },
+            {
+                "id": "mFkvTA3j0dm0IIx6pJyrUQ",
+                "rating": 5,
+                "text": "I would give y'all 6 stars if I could! \n\nThis is our go to local sushi restaurant!! we usually order for pickup but we occasionally sit down and eat at a...",
+                "time_created": "2024-08-05 10:47:39",
+                "user": {
+                    "name": "Abigail C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1033,
+        "company": "Panda House",
+        "yelp_business_id": "gtgQJ2BDsvu7lUNBpmzmLA",
+        "yelp_data": {
+            "id": "gtgQJ2BDsvu7lUNBpmzmLA",
+            "name": "Panda House",
+            "rating": 2.8,
+            "review_count": 51,
+            "price": "$$",
+            "phone": "+15084819170",
+            "url": "https://www.yelp.com/biz/panda-house-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/YU6QEQ2RIjmVYZ1_ysQ3tA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "BZedPehBRLcnJpAOLq4-hQ",
+                "rating": 4,
+                "text": "Wantes to try another Chinese food place. This was down the street from where I was staying. \n\nIt's my perfect style like hole in the wall which tends to...",
+                "time_created": "2024-12-18 17:31:25",
+                "user": {
+                    "name": "Mike J."
+                }
+            },
+            {
+                "id": "w6aTOTdiPac0ZGuO0qwngQ",
+                "rating": 2,
+                "text": "I've had the shrimp with broccoli combo a few times, and is consistently pretty good. We placed a larger order recently, though, and were really...",
+                "time_created": "2022-01-09 06:07:46",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "5FXY72o2bq7a2qiS_Ypmow",
+                "rating": 1,
+                "text": "Seems they have new owners. Food used to be pretty good 2 years ago. haven't eaten here in two years didn't recognize the owners. food is not nearly as...",
+                "time_created": "2024-08-12 09:31:29",
+                "user": {
+                    "name": "Danny E."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1034,
+        "company": "Silk Road Bistro",
+        "yelp_business_id": "yT8S9axe1KlIdaNOE_xumw",
+        "yelp_data": {
+            "id": "yT8S9axe1KlIdaNOE_xumw",
+            "name": "Silk Road Bistro",
+            "rating": 4.1,
+            "review_count": 206,
+            "price": "$$",
+            "phone": "+15086308946",
+            "url": "https://www.yelp.com/biz/silk-road-bistro-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/JeUnepQzseHbjA7PLW3UAQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "193VwTe8BA67xk2HzzuS1w",
+                "rating": 5,
+                "text": "I moved to Cali over 20 years ago and miss New England Chinese food. So whenever I visit I always hit the Chinese food places.  My family raves about this...",
+                "time_created": "2024-12-31 22:24:00",
+                "user": {
+                    "name": "Mike J."
+                }
+            },
+            {
+                "id": "kJNiEbxBhi9xbPrKV_LALg",
+                "rating": 3,
+                "text": "This used to be my favorite Chinese restaurant in the metrowest area. It was phenomenal! I was particularly fond of the authentic Szechuan dishes, such as...",
+                "time_created": "2024-09-06 11:40:51",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "8stClvc6s_wNuSKCC2KyVg",
+                "rating": 5,
+                "text": "All the dishes were tasty except the salt and pepper shrimp. It would be good if the shrimps we're not dipped with thick flour. Overall, It's a decent place...",
+                "time_created": "2024-10-13 16:39:12",
+                "user": {
+                    "name": "Hong G."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1035,
+        "company": "Thairiffic",
+        "yelp_business_id": "q2gxkZ7FbSTN5aWslQn_Gg",
+        "yelp_data": {
+            "id": "q2gxkZ7FbSTN5aWslQn_Gg",
+            "name": "Thairiffic",
+            "rating": 4.1,
+            "review_count": 160,
+            "price": "$$",
+            "phone": "+15084856900",
+            "url": "https://www.yelp.com/biz/thairiffic-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/VHY8f6WtEZRth5YoFZ_iUA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "eO9RbnGLkxrOfuJJ1Djs2w",
+                "rating": 5,
+                "text": "This restaurant is 5/5! We had Blue as our server and she was kind, cheerful and checked in on us the appropriate amount of times. \n\nWe ordered drinks, apps...",
+                "time_created": "2024-07-19 16:50:53",
+                "user": {
+                    "name": "Shrina A."
+                }
+            },
+            {
+                "id": "ooe1yqjg3FtPOZvzwc6ukQ",
+                "rating": 4,
+                "text": "Our pre-Thanksgiving takeout was excellent. Despite being very busy, our takeout order was ready at the exact time estimated when we placed our order. The...",
+                "time_created": "2024-11-27 16:39:29",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "bmasOGR8Up0u--LxlM04oQ",
+                "rating": 1,
+                "text": "You won't read this on DoorDash. Because the take out was some of the WORST delivery we have spent money on in a very long time. The pad thai was a dry,...",
+                "time_created": "2024-05-06 08:55:10",
+                "user": {
+                    "name": "Rita V."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1036,
+        "company": "Up To Me Thai Kitchen",
+        "yelp_business_id": "z2uiQVmKnBblbmHSimmbAQ",
+        "yelp_data": {
+            "id": "z2uiQVmKnBblbmHSimmbAQ",
+            "name": "Up to Me Thai Asian and Ramen",
+            "rating": 4.4,
+            "review_count": 84,
+            "price": null,
+            "phone": "+15082510518",
+            "url": "https://www.yelp.com/biz/up-to-me-thai-asian-and-ramen-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/grhRq5kOv5RD8vWR5Sa2Dg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "-CmkeBT23yiDtGYaFjxURg",
+                "rating": 5,
+                "text": "What a wonderful find.  We were visiting from out of state and looking for some comfort food.   The yellow curry was fantastic the flavor was perfect.  The...",
+                "time_created": "2025-01-18 16:54:09",
+                "user": {
+                    "name": "Vonn S."
+                }
+            },
+            {
+                "id": "USomK33V6XOaJUYUESoqcA",
+                "rating": 5,
+                "text": "Delicious food, the Pad See Ew was fantastic. I tried the Tom Yum Seafood soup with Ramen which was delicious. Wonderful service. Ramen noodles were great.",
+                "time_created": "2024-12-22 14:22:23",
+                "user": {
+                    "name": "An L."
+                }
+            },
+            {
+                "id": "oY6AqugbRVNhxP_mDq3SfA",
+                "rating": 4,
+                "text": "Up to Me has a wide ranging Ramen menu including the spicy one with pork that I enjoyed. The meat was especially savory - thick cut and flavorful against...",
+                "time_created": "2024-12-25 10:08:08",
+                "user": {
+                    "name": "Jon B."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1037,
+        "company": "Yummy Kitchen",
+        "yelp_business_id": "3ISlGVGLr0G_Xr1x-Ao3Iw",
+        "yelp_data": {
+            "id": "3ISlGVGLr0G_Xr1x-Ao3Iw",
+            "name": "Yummy kitchen",
+            "rating": 3.0,
+            "review_count": 61,
+            "price": "$$",
+            "phone": "+15084347727",
+            "url": "https://www.yelp.com/biz/yummy-kitchen-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/YLl2buIc9iVpSe1AK8QOmg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "sRCBUxnvbC6MyCN5JubjYg",
+                "rating": 3,
+                "text": "I continue to search for outstanding authentic Chinese food in metro west, and after trying Yummy Kitchen, my quest will continue.\n\nOn the bright side, the...",
+                "time_created": "2023-12-14 10:59:43",
+                "user": {
+                    "name": "David L."
+                }
+            },
+            {
+                "id": "dX3jB66qoFYWcGivSPbwpg",
+                "rating": 5,
+                "text": "Reminds me of Chinese food in Hawaii. Nice grilled/seared taste to the chicken fried rice and the duck sauce has a refreshing dreamy hint of pineapple...",
+                "time_created": "2024-04-07 16:32:06",
+                "user": {
+                    "name": "Marni R."
+                }
+            },
+            {
+                "id": "aEQWKPfjxMchFacWUU98rw",
+                "rating": 5,
+                "text": "Yummy Kitchen is my go to. The food is consistent and delicious. Really good Chinese take out. The prices are great, especially these days!! Love the...",
+                "time_created": "2024-08-06 05:53:37",
+                "user": {
+                    "name": "Jess C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1038,
+        "company": "Chin's Garden",
+        "yelp_business_id": "KZLS69IIq7TT_aq85qS2ew",
+        "yelp_data": {
+            "id": "KZLS69IIq7TT_aq85qS2ew",
+            "name": "Chin's Garden Restaurant",
+            "rating": 2.4,
+            "review_count": 77,
+            "price": "$$",
+            "phone": "+15084812822",
+            "url": "https://www.yelp.com/biz/chins-garden-restaurant-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/GFN4Ok6IBcmrYycCOmgnXA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "JAe5nasPtQCtiVVSG8zaKA",
+                "rating": 3,
+                "text": "First visit to this divey old school joint in at least 15 years. My last visit way back then wasn't that great, but I'd been hearing rumblings on local...",
+                "time_created": "2023-07-31 16:01:44",
+                "user": {
+                    "name": "Gary G."
+                }
+            },
+            {
+                "id": "gQGxx6fNnavna71-tJXouQ",
+                "rating": 1,
+                "text": "We went here tonight because I read the reviews and it sounded like a great place. I am new to this area and have not found a Chinese OK restaurant that I...",
+                "time_created": "2024-09-27 17:19:25",
+                "user": {
+                    "name": "Sandy R."
+                }
+            },
+            {
+                "id": "SYVAhDij3Jn9l01PhKh63A",
+                "rating": 1,
+                "text": "Stopped into Chin's on a Friday night for a quick dinner at the bar.   Service was exceptionally slow.  Finally ordered two glasses of white wine.  Only...",
+                "time_created": "2024-09-16 11:11:28",
+                "user": {
+                    "name": "Keith A."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1039,
+        "company": "Aunty G's Ice Cream & Indian Fusion",
+        "yelp_business_id": "Q-_5cf30RqSxqD-_rjNFxA",
+        "yelp_data": {
+            "id": "Q-_5cf30RqSxqD-_rjNFxA",
+            "name": "Guru The Caterer",
+            "rating": 4.3,
+            "review_count": 491,
+            "price": "$",
+            "phone": "+16177180078",
+            "url": "https://www.yelp.com/biz/guru-the-caterer-somerville-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/S86qTBUT2EJGFN3pXq9GLw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "RUMjuSY2oeORJeaJPb9Ysg",
+                "rating": 5,
+                "text": "\" Mango  Lassi Kings \". \n\nThis time I seen them at  \" The Copley Farmers Market \".  This market is open Friday from 10:00 am - 6:00 pm ,  from June through...",
+                "time_created": "2024-08-25 13:28:00",
+                "user": {
+                    "name": "Alexandra A."
+                }
+            },
+            {
+                "id": "5Ws-hTcxqxJdivVtquF4Jw",
+                "rating": 4,
+                "text": "The food here is consistently good. Prior to the pandemic, my office team would order here several times a year and always was satisfied. Not sure if they...",
+                "time_created": "2023-02-03 05:43:08",
+                "user": {
+                    "name": "John Y."
+                }
+            },
+            {
+                "id": "LEIOFeGEieFRl9v4UhPMDA",
+                "rating": 5,
+                "text": "Great experience with the takeout. I was recommended this by a friend who used to live in boston 10 years ago, and lives up to the hype! Reasonable prices,...",
+                "time_created": "2023-08-11 05:34:08",
+                "user": {
+                    "name": "Emily Y."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1040,
+        "company": "China Taste",
+        "yelp_business_id": "ru_5rG8jGuBKcXkqwuI7Kw",
+        "yelp_data": {
+            "id": "ru_5rG8jGuBKcXkqwuI7Kw",
+            "name": "China Taste",
+            "rating": 3.6,
+            "review_count": 75,
+            "price": "$",
+            "phone": "+18608719311",
+            "url": "https://www.yelp.com/biz/china-taste-vernon-rockville?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/XEd6qYScnhXYN_disrRuNw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "LubxzuozWMXMkrwk5WbqbA",
+                "rating": 5,
+                "text": "My favorite place for comfort Chinese food. The crab Rangoon are delicious. I can't seem to order anything other than L22 general Tso's chicken with egg...",
+                "time_created": "2024-07-08 18:24:57",
+                "user": {
+                    "name": "Rose D."
+                }
+            },
+            {
+                "id": "F_vHSCPYpsytGVwEEXyfgg",
+                "rating": 5,
+                "text": "I've been eating China Taste for about 5 years now. I always get delivery, they are amazingly fast, the driver is always friendly (and even remembers us,...",
+                "time_created": "2024-03-12 16:16:21",
+                "user": {
+                    "name": "Robert B."
+                }
+            },
+            {
+                "id": "8j3WS7J-5XlCrfOI3xWs4w",
+                "rating": 1,
+                "text": "Rotten food, this place is disgusting. Don't come to this place, it's disgusting, I had a bad experience.",
+                "time_created": "2024-05-03 19:54:01",
+                "user": {
+                    "name": "Kener Gonzalo C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1041,
+        "company": "Syo Japan",
+        "yelp_business_id": "Z6cMts6lOOzHgv8P4tO-1Q",
+        "yelp_data": {
+            "id": "Z6cMts6lOOzHgv8P4tO-1Q",
+            "name": "Syo Japan",
+            "rating": 4.4,
+            "review_count": 40,
+            "price": "$",
+            "phone": "+15083577958",
+            "url": "https://www.yelp.com/biz/syo-japan-marlborough-4?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/N2eJXWu3JsqcngOQaf712g/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "luPLSTCL-eli9myDLxBJgA",
+                "rating": 2,
+                "text": "Food was just okay. A bit underwhelming in all honesty. \n\nI went with #4 which is chicken and shrimp combo teriyaki plate. It tasted like the Japanese food...",
+                "time_created": "2019-07-02 04:33:09",
+                "user": {
+                    "name": "Meri L."
+                }
+            },
+            {
+                "id": "ACVrzr4dVM7nt4AGAA2Log",
+                "rating": 4,
+                "text": "Great quick reasonable prices for some quick take out. Good if your looking for a easy and affordable sushi fix!",
+                "time_created": "2021-04-25 15:28:21",
+                "user": {
+                    "name": "Lisa S."
+                }
+            },
+            {
+                "id": "N7nXSMEvD5CTPoxd3JqwVw",
+                "rating": 3,
+                "text": "I'm not quite sure what to make of this place. My son called it the Japanese Wendy's, but I think that is a disservice to this new eatery. We did not try...",
+                "time_created": "2018-08-08 19:49:10",
+                "user": {
+                    "name": "David L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1042,
+        "company": "Atlantic Poke",
+        "yelp_business_id": "8dgI46oVAZGs5s9CVKV2dg",
+        "yelp_data": {
+            "id": "8dgI46oVAZGs5s9CVKV2dg",
+            "name": "Atlantic Pok\u00e9 - Marlborough",
+            "rating": 4.4,
+            "review_count": 28,
+            "price": null,
+            "phone": "+15084805020",
+            "url": "https://www.yelp.com/biz/atlantic-pok%C3%A9-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/rv8sLIPqO8SXBxmGCdbQwQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "euiGVo3nyfu_ijseMy5HBA",
+                "rating": 4,
+                "text": "We've only ordered takeout and the fish and ingredients are fresh, but a bowl is pricey. The serving sizes are kind of a ripoff, especially if you get 3...",
+                "time_created": "2024-09-28 07:49:13",
+                "user": {
+                    "name": "Helen Z."
+                }
+            },
+            {
+                "id": "ej81drSNi1BTqELfK7BNWQ",
+                "rating": 5,
+                "text": "This was my first time having Pok\u00e9, and it was a great experience. The front of house team was very knowledgeable and patient. The team member working on my...",
+                "time_created": "2024-11-05 15:38:37",
+                "user": {
+                    "name": "Mella M."
+                }
+            },
+            {
+                "id": "O1sgVFcrdd61wCZdzOqGtw",
+                "rating": 3,
+                "text": "I just spoke to one of the owners, and she was delightful, but it doesn't help the fact that my avocados are brown, and there was no fish anywhere to be...",
+                "time_created": "2023-07-25 10:18:33",
+                "user": {
+                    "name": "Rita V."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1043,
+        "company": "Street Kitchen",
+        "yelp_business_id": "U8yvS2SWphsNtIzYCFIFyA",
+        "yelp_data": {
+            "id": "U8yvS2SWphsNtIzYCFIFyA",
+            "name": "Street Kitchen",
+            "rating": 4.1,
+            "review_count": 71,
+            "price": null,
+            "phone": "+15082511914",
+            "url": "https://www.yelp.com/biz/street-kitchen-marlborough-5?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/jACKYo8KN5senWS8ZYavxQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "IAPfj610VMuh9zkdvlaj3A",
+                "rating": 5,
+                "text": "I ordered takeout (chicken curry - spicy)  - with a special request \nWhen I arrived to pick it up I was met with a smile, a recognition of my order, by the...",
+                "time_created": "2024-08-22 13:33:18",
+                "user": {
+                    "name": "Annalisa L."
+                }
+            },
+            {
+                "id": "tC-DzGFPGt37Zpjb_vycWg",
+                "rating": 5,
+                "text": "Incredible food and the customer service is utterly amazing!!  My husband and I ordered thru grubhub and the driver did not deliver. When we called the...",
+                "time_created": "2025-01-17 18:30:04",
+                "user": {
+                    "name": "Margo K."
+                }
+            },
+            {
+                "id": "OthlCGRNGtSfJO7oYql1LQ",
+                "rating": 1,
+                "text": "Go to Saffron on the west end.  This business is losing money because their payment portal sucks.  I could not pay fot a $59  order just now because the...",
+                "time_created": "2024-10-06 13:54:13",
+                "user": {
+                    "name": "J M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1044,
+        "company": "Kinzen Ramen",
+        "yelp_business_id": "O1Hd4aapKRrX-KFef4l0oQ",
+        "yelp_data": {
+            "id": "O1Hd4aapKRrX-KFef4l0oQ",
+            "name": "Kinzen",
+            "rating": 4.4,
+            "review_count": 82,
+            "price": "$$",
+            "phone": "+15082510578",
+            "url": "https://www.yelp.com/biz/kinzen-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/OjeV0X8ZwMuC_zAwyLbuXA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "ZDtLH7hp2qB41ronXK5pag",
+                "rating": 5,
+                "text": "Me and my family went to Kinsen Restaurant, and oh my Lordy Lord, it was an experience straight out of an anime! If you're looking for the best, freshest...",
+                "time_created": "2024-09-14 05:57:56",
+                "user": {
+                    "name": "Tenslant L."
+                }
+            },
+            {
+                "id": "zoxhinU603gmIFs5keSrDg",
+                "rating": 5,
+                "text": "Love the food and environment! Staff are welcoming, and place is cozy. \nHighly recommended!!",
+                "time_created": "2025-01-20 10:31:09",
+                "user": {
+                    "name": "Dani E."
+                }
+            },
+            {
+                "id": "Zl2QzBs4ViVSDVR2myXDhg",
+                "rating": 5,
+                "text": "The food has been amazing every time my boyfriend and I go here, there has never been an issue. That is between both takeout and dine-in experiences! When...",
+                "time_created": "2025-01-26 09:39:34",
+                "user": {
+                    "name": "Hali W."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1045,
+        "company": "An Nam Vietnamese Grill",
+        "yelp_business_id": "tkxOcZSk-EMi_NVL-3pMqw",
+        "yelp_data": {
+            "id": "tkxOcZSk-EMi_NVL-3pMqw",
+            "name": "An Nam Vietnamese Grill",
+            "rating": 4.1,
+            "review_count": 192,
+            "price": "$",
+            "phone": "+15084868199",
+            "url": "https://www.yelp.com/biz/an-nam-vietnamese-grill-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/ipZmUM7ASw04V2vP_F4DpQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "EDkuW5WV55AvhdZG2k8Q8w",
+                "rating": 5,
+                "text": "Yes! Yes! And yes! I finally made it to the new location! Even cleaner than it was before (and it was clean!), a slightly expanded menu, a significantly...",
+                "time_created": "2023-06-21 09:58:28",
+                "user": {
+                    "name": "Rita V."
+                }
+            },
+            {
+                "id": "bH0gQq9GVypSDHBUjSV5OQ",
+                "rating": 4,
+                "text": "I was pleasantly surprised by this place, especially because we tried the katsu place next door first that has the same owners and it wasn't great. The pho...",
+                "time_created": "2024-11-04 17:17:36",
+                "user": {
+                    "name": "Helen Z."
+                }
+            },
+            {
+                "id": "M1gTVBpOsXqZQ0ccKNCaBQ",
+                "rating": 2,
+                "text": "I had pho delivered.  First off the soup was half full.   I did like the noodle separator.  The soup had almost no meat and zero sprouts.  I'm used to white...",
+                "time_created": "2025-01-04 15:53:57",
+                "user": {
+                    "name": "waits w."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1046,
+        "company": "Chipotle Mexican Grill",
+        "yelp_business_id": "fGK0ImEngoNgYxJirHcPqQ",
+        "yelp_data": {
+            "id": "fGK0ImEngoNgYxJirHcPqQ",
+            "name": "Chipotle Mexican Grill",
+            "rating": 2.7,
+            "review_count": 160,
+            "price": "$",
+            "phone": "+15084808412",
+            "url": "https://www.yelp.com/biz/chipotle-mexican-grill-marlborough-4?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/Wlr3QIpXK7HCC87D65t69g/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "o0L_kyG9DFT0OJAleAHukA",
+                "rating": 5,
+                "text": "Food is always fresh, great service, very good employees, they make sure to give you everything you need!!!!!!!",
+                "time_created": "2024-12-17 13:28:44",
+                "user": {
+                    "name": "Gabriela P."
+                }
+            },
+            {
+                "id": "WuXp3PVX1mAPhKBlI1ypjg",
+                "rating": 4,
+                "text": "i used to work at this location, almost every position. and i understand it can be understaffed and very busy at times especially with promos and hockey...",
+                "time_created": "2024-09-27 19:17:59",
+                "user": {
+                    "name": "Abigail C."
+                }
+            },
+            {
+                "id": "bw5jpfNL5RH5sPD8ko7v2Q",
+                "rating": 1,
+                "text": "Hands down the rudest chipotle I've been to. It was 8pm (they close at 10pm) and they were shutting down. We were not the only people in the store but they...",
+                "time_created": "2024-11-17 17:32:09",
+                "user": {
+                    "name": "Brittany D."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1047,
+        "company": "Lalo's Mexican Restaurant",
+        "yelp_business_id": "KzMruyou-sxRVz0u91kiGA",
+        "yelp_data": {
+            "id": "KzMruyou-sxRVz0u91kiGA",
+            "name": "Lalo\u2019s Mexican Resturant",
+            "rating": 4.3,
+            "review_count": 66,
+            "price": "$$",
+            "phone": "+17745562941",
+            "url": "https://www.yelp.com/biz/lalo-s-mexican-resturant-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/pS4XsUw_S22sYTUPdvDF0w/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "co1c6-TP_ltIfk4_T0tgAQ",
+                "rating": 4,
+                "text": "Came across this restaurant and had originally gone in for a drink but ended but having the nachos too. The nachos were really good! They had a great sauce...",
+                "time_created": "2024-04-29 19:08:01",
+                "user": {
+                    "name": "Parita A."
+                }
+            },
+            {
+                "id": "0wgI_15GLTUP7V2JN2SjOg",
+                "rating": 5,
+                "text": "Happy Cinco de Mayo,\n\nThis place was busy but not too busy, got a two top right away.\n\nAbsolutely delicious. The better half got enchiladas which I ate half...",
+                "time_created": "2024-05-05 10:57:07",
+                "user": {
+                    "name": "Paul L."
+                }
+            },
+            {
+                "id": "SAyQ6dg0gS8If4xg-pG3fg",
+                "rating": 5,
+                "text": "Amazing hole in the wall place, great food, drinks &  service. Thank you, we will be back for sure.",
+                "time_created": "2024-09-15 11:17:37",
+                "user": {
+                    "name": "Henrietta F."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1048,
+        "company": "La Tapatia Taqueria",
+        "yelp_business_id": "2UTp6xwftnyudWMKedDuqA",
+        "yelp_data": {
+            "id": "2UTp6xwftnyudWMKedDuqA",
+            "name": "La Tapatia Taqueria",
+            "rating": 3.6,
+            "review_count": 380,
+            "price": "$$",
+            "phone": "+15086247005",
+            "url": "https://www.yelp.com/biz/la-tapatia-taqueria-marlborough-4?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/1e3f5GoHSE96LNz4LHtzjQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "GFoFNFIjtEBv2BkW1U1qIw",
+                "rating": 5,
+                "text": "Really good food and portions for the price! I'm from Texas and I definitely recommend this place for its authenticity to the Mexican culture. Come and...",
+                "time_created": "2024-10-05 16:06:04",
+                "user": {
+                    "name": "Joe H."
+                }
+            },
+            {
+                "id": "OgVCAR2mxNnYIU8ErmZn7A",
+                "rating": 5,
+                "text": "Really good authentic Mexican food and friendly staff.  Great prices for big portions, and they're not greedy with the tortillas like a lot of places tend...",
+                "time_created": "2024-10-05 16:01:50",
+                "user": {
+                    "name": "Griselda M."
+                }
+            },
+            {
+                "id": "TSqNeDh_Ha6zLRzi0tV9gQ",
+                "rating": 1,
+                "text": "If I could give them zero stars I would . I ordered steak tacos to go because I heard they were good . OMG ! They were about 2 1/2 inches long . They were...",
+                "time_created": "2024-12-15 16:28:01",
+                "user": {
+                    "name": "James R."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1049,
+        "company": "Qdoba Mexican Eats",
+        "yelp_business_id": "A3tVZJg61sRshEGFRWrXFg",
+        "yelp_data": {
+            "id": "A3tVZJg61sRshEGFRWrXFg",
+            "name": "QDOBA Mexican Eats",
+            "rating": 2.7,
+            "review_count": 15,
+            "price": null,
+            "phone": "+15082512349",
+            "url": "https://www.yelp.com/biz/qdoba-mexican-eats-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/ubFfjhlSfBBbLakXdg0sPg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "B1oM0y72w3HgMwNtxsw_AA",
+                "rating": 4,
+                "text": "Wow.   The haters here are loyal to the hate. This isn't a taco stand in Cali or a breakfast joint that makes its own chorizo in San Antonio.   \n\nBut face...",
+                "time_created": "2019-01-08 15:06:10",
+                "user": {
+                    "name": "Dawn E."
+                }
+            },
+            {
+                "id": "bPdEUISWF2V-oqZvnQdO8Q",
+                "rating": 5,
+                "text": "This is my preferred Qdubs in the area as the staff is always very warm and inviting. I much prefer Qdoba to Chipotle based off of the face that they don't...",
+                "time_created": "2019-12-02 12:53:21",
+                "user": {
+                    "name": "Jennifer R."
+                }
+            },
+            {
+                "id": "AykM7Zcj68aLS4pjsvwW0g",
+                "rating": 4,
+                "text": "Good Burritos. Had the steak burritos. Salsa nice and spicy. Crispy chips. Clean. Quick. Only cool feedback- soda machine did not have many flavors...",
+                "time_created": "2022-04-25 16:59:45",
+                "user": {
+                    "name": "Joe B."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1050,
+        "company": "Zarape Mexican Restaurant",
+        "yelp_business_id": "P8ZFRa30Jb01SUNuk5zVZQ",
+        "yelp_data": {
+            "id": "P8ZFRa30Jb01SUNuk5zVZQ",
+            "name": "Zarape",
+            "rating": 3.9,
+            "review_count": 264,
+            "price": "$$",
+            "phone": "+15084855502",
+            "url": "https://www.yelp.com/biz/zarape-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/7qFzdXymCOiY21T1Fbc-6g/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "E5jWQP-8oZjkom7uq8YGVw",
+                "rating": 4,
+                "text": "We love this place - the food is great, the people are kind and helpful, the service is responsive, and casual atmosphere is relaxing!! \n\nNice outdoor...",
+                "time_created": "2024-10-17 09:02:14",
+                "user": {
+                    "name": "Julie T."
+                }
+            },
+            {
+                "id": "jQISyK7IuXLlV0rIaVPdmQ",
+                "rating": 5,
+                "text": "We went to Zarape last night for the first time after seeing it featured on Phantom Gourmet. The restaurant is definitely in an unexpected location (aka a...",
+                "time_created": "2025-01-15 06:56:17",
+                "user": {
+                    "name": "Kaye K."
+                }
+            },
+            {
+                "id": "860EffqZS5YMO9WigGVtOA",
+                "rating": 4,
+                "text": "I met several of my Aunts and Uncles for lunch at Zarape's. I will update my review when I get the name of the waitress from my Uncle Bob, but she was super...",
+                "time_created": "2024-06-04 18:48:51",
+                "user": {
+                    "name": "Abby M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1051,
+        "company": "Brazilian Flavor Bakery & Restaurant",
+        "yelp_business_id": "NA9M8yogYqt1Dq5F8DNpHw",
+        "yelp_data": {
+            "id": "NA9M8yogYqt1Dq5F8DNpHw",
+            "name": "Miranda Bread",
+            "rating": 4.0,
+            "review_count": 17,
+            "price": "$",
+            "phone": "+15082512217",
+            "url": "https://www.yelp.com/biz/miranda-bread-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/maUmHDQf3pG6D__LePI45A/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "Bpm9WDOFlD2niieRN2CWzg",
+                "rating": 5,
+                "text": "Coxinhas are bomb!! Fresh bakery items and burgers worth coming back for. Best Brazilian hole in the wall!",
+                "time_created": "2024-05-27 06:34:58",
+                "user": {
+                    "name": "Corey R."
+                }
+            },
+            {
+                "id": "MiB4vSF83sWqCoE5hk-SgQ",
+                "rating": 1,
+                "text": "2 words.....FOOD POISONING!!\nI highly deter consumption of any deli or cooked meats. A simple breakfast sandwich caused 36hrs of horrific bouts if of Food...",
+                "time_created": "2023-03-28 11:57:11",
+                "user": {
+                    "name": "Roz R."
+                }
+            },
+            {
+                "id": "EVrI56_hhF1fzVIrijPqrw",
+                "rating": 5,
+                "text": "This part of Massachusetts has one of the largest Brazilian immigrant populations in the US. If you look hard, you'll find a lot of restaurants in Central...",
+                "time_created": "2020-11-11 20:57:59",
+                "user": {
+                    "name": "Adam B."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1052,
+        "company": "Karine's Pizza & Deli",
+        "yelp_business_id": "X6F1_8BHvicJ3bKYWLJwmA",
+        "yelp_data": {
+            "id": "X6F1_8BHvicJ3bKYWLJwmA",
+            "name": "Karine's Pizza & Deli",
+            "rating": 4.6,
+            "review_count": 8,
+            "price": null,
+            "phone": "+15084817393",
+            "url": "https://www.yelp.com/biz/karines-pizza-and-deli-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/0FckQMugzWBVLkybbksWkA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "BQ86UhNYjv7l9ehewucWsQ",
+                "rating": 5,
+                "text": "The pizza here is excellent.  It used to be buy one get one free, but now it's buy one, get one for 3 bucks, which is still an outstanding deal.  Their...",
+                "time_created": "2024-10-24 12:10:46",
+                "user": {
+                    "name": "Zack S."
+                }
+            },
+            {
+                "id": "D7u-LoC0WuKfK2QLo5uiAA",
+                "rating": 5,
+                "text": "The Best pastel, and pizza! And the guyd are so nice, i love it!! \u200b\u200b\u200b",
+                "time_created": "2025-01-15 13:26:12",
+                "user": {
+                    "name": "Zulema O."
+                }
+            },
+            {
+                "id": "WDizIP8HaCeOyaLV_adlrw",
+                "rating": 2,
+                "text": "Listening to the reviews we thought let's try this place! Got two slices fresh from the oven got back to are hotel they piled them on to of each other...",
+                "time_created": "2024-10-16 16:12:35",
+                "user": {
+                    "name": "Marilyn J."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1053,
+        "company": "Emporium Brazil",
+        "yelp_business_id": "fNMxHzDkK8ceRnQbk8KgAg",
+        "yelp_data": {
+            "id": "fNMxHzDkK8ceRnQbk8KgAg",
+            "name": "Emporium Brazil",
+            "rating": 4.0,
+            "review_count": 5,
+            "price": null,
+            "phone": "+15083811240",
+            "url": "https://www.yelp.com/biz/emporium-brazil-milford?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/KYzhiv-luZHyiUKePAGQQg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "7mHz8sYkNF2_QeGfyCt67A",
+                "rating": 2,
+                "text": "So, this was recommended to me by a co-worker, so I went to check it out. \n\nHate to say the food was \"MID\" at best, everyone there was supper nice, but...",
+                "time_created": "2023-08-31 07:54:51",
+                "user": {
+                    "name": "Mr F."
+                }
+            },
+            {
+                "id": "2EimR5nMY7AZMsFlh0oSxA",
+                "rating": 5,
+                "text": "Stopped in to this churrascaria for lunch - great selection on the buffet and the bbq meat was cooked wonderfully and there were a lot of choices. The staff...",
+                "time_created": "2023-03-25 14:15:21",
+                "user": {
+                    "name": "Shashu B."
+                }
+            },
+            {
+                "id": "bRxklcpKMzvNXmHCNcLIHw",
+                "rating": 3,
+                "text": "I've been here several times over the last year and the food quality is consistently good.  The atmosphere is clean and well lit.  The food in the buffet is...",
+                "time_created": "2023-04-10 19:29:26",
+                "user": {
+                    "name": "Doc L."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1056,
+        "company": "Pruller Restaurant",
+        "yelp_business_id": "imUHsZkJ_aFi3N4nfZQIeg",
+        "yelp_data": {
+            "id": "imUHsZkJ_aFi3N4nfZQIeg",
+            "name": "Pruller Restaurant",
+            "rating": 4.7,
+            "review_count": 314,
+            "price": "$$",
+            "phone": "+15084808825",
+            "url": "https://www.yelp.com/biz/pruller-restaurant-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/yS7SHCUm3EyXom9M-M0ykQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "rSZAoYv_bCxA4kDt11e9lw",
+                "rating": 4,
+                "text": "We got to the restaurant an hour before closing and didn't have very high expectations. But we were mistaken. Right away we were greeted by an attendant...",
+                "time_created": "2024-10-05 16:14:43",
+                "user": {
+                    "name": "Melissa M."
+                }
+            },
+            {
+                "id": "kkcF_TC4TZ4UfonnIIZeyA",
+                "rating": 3,
+                "text": "My wife and I stopped here after our walk at Lake Williams Boardwalk. I was absolutely famished so the first few bites were absolutely delicious. I tried...",
+                "time_created": "2024-09-11 16:26:14",
+                "user": {
+                    "name": "Andy L."
+                }
+            },
+            {
+                "id": "L8kgixoz6AfFv47aHIEx9Q",
+                "rating": 5,
+                "text": "Great value!  Very friendly for kids and other who don't eat as much as they have a pay per pound option.  Sides are surprisingly good too.",
+                "time_created": "2024-12-24 10:38:31",
+                "user": {
+                    "name": "Jackson C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1058,
+        "company": "Brazilian Steak Grill",
+        "yelp_business_id": "ILfPokswJuAI2Og002PA4A",
+        "yelp_data": {
+            "id": "ILfPokswJuAI2Og002PA4A",
+            "name": "Brazilian Steak Grill",
+            "rating": 4.4,
+            "review_count": 27,
+            "price": "$$",
+            "phone": "+15084608200",
+            "url": "https://www.yelp.com/biz/brazilian-steak-grill-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/rRtSH1fFsQy-NeOU76zylQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "QCJEiEtul-9URydFvbetrA",
+                "rating": 3,
+                "text": "This is our second time here and it will be the last. I can look past the decor,or lack there of, the walls are plain. But this place just doesn't give any...",
+                "time_created": "2024-09-30 16:34:46",
+                "user": {
+                    "name": "Melissa M."
+                }
+            },
+            {
+                "id": "mcLosG99koeupmgue_dTfw",
+                "rating": 5,
+                "text": "YES For lunch. YES for dinner. Yes for coming in to just smell the food. CLEAN (well, the bathroom area and kitchen area could use a decent makeover, it...",
+                "time_created": "2022-11-20 06:01:35",
+                "user": {
+                    "name": "Rita V."
+                }
+            },
+            {
+                "id": "7NTdPfDksQ3wYdZHzj1L8Q",
+                "rating": 5,
+                "text": "I'm a white guy from the south, and I love this place! It is not fancy at all, and can be absolutely packed one day and empty the next. Think hole in the...",
+                "time_created": "2023-07-15 13:14:41",
+                "user": {
+                    "name": "Nate M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1059,
+        "company": "Chapa Quente",
+        "yelp_business_id": "7M2d0UgzNOtpmU8LZ7Cd7A",
+        "yelp_data": {
+            "id": "7M2d0UgzNOtpmU8LZ7Cd7A",
+            "name": "Brazilian Flavor",
+            "rating": 3.2,
+            "review_count": 6,
+            "price": null,
+            "phone": "+15084600070",
+            "url": "https://www.yelp.com/biz/brazilian-flavor-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/F__wEEeQjLFawViKJ3rExA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "PT3Jq1-aPPkY4WAi82EQYw",
+                "rating": 2,
+                "text": "Liked the idea of the hamburger pastry, I would've probably liked it if it was fresh out the oven, and the cheese meat mix was pleasant\n You could see them...",
+                "time_created": "2024-07-19 17:23:07",
+                "user": {
+                    "name": "Kiri C."
+                }
+            },
+            {
+                "id": "ui8WYKm97rTF5SHnkJv8nA",
+                "rating": 5,
+                "text": "The food is absolutely delicious and portions are huge!!! The passion fruit mousse is out of this world and the coxinha with catupiry was amazing! I will...",
+                "time_created": "2020-09-05 18:28:42",
+                "user": {
+                    "name": "Amanda S."
+                }
+            },
+            {
+                "id": "Yczxc-dZ3LpUZoZZZnpvhQ",
+                "rating": 1,
+                "text": "If I can rate this place extra 0's I would ! Terrible how can I order my food if you can't speak english , Spanish or sign language? Unreal ! Should not be...",
+                "time_created": "2020-06-26 17:14:12",
+                "user": {
+                    "name": "Ma R."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1060,
+        "company": "Big Apple Restaurant",
+        "yelp_business_id": "Q4xxNTeoFhmveWhVrQwIHg",
+        "yelp_data": {
+            "id": "Q4xxNTeoFhmveWhVrQwIHg",
+            "name": "Big Apple Restaurant",
+            "rating": 3.5,
+            "review_count": 126,
+            "price": "$",
+            "phone": "+15082292829",
+            "url": "https://www.yelp.com/biz/big-apple-restaurant-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/LNNwiZJ64T3W-zMBGHe0TA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "ZqVXx0pYs4OPc_1p76vOVQ",
+                "rating": 4,
+                "text": "A fun stop. Large portions. Hit chocolate hit the spot after a cold morning outside. Chocolate drizzle on the whipped cream was a nice surprise. \n\nPortions...",
+                "time_created": "2024-11-30 17:43:21",
+                "user": {
+                    "name": "Craig S."
+                }
+            },
+            {
+                "id": "Cr2UQDdp05raM3UbWQVcPQ",
+                "rating": 5,
+                "text": "Great lunch today, service is very good? Very helpful and timely.\nHandmade hash with eggs and home fries were cooked perfectly.",
+                "time_created": "2025-01-24 12:31:07",
+                "user": {
+                    "name": "Rich H."
+                }
+            },
+            {
+                "id": "y9p7tgiFXg4Ygmegu9Zq9w",
+                "rating": 3,
+                "text": "It's a comfortable restaurant. Service was fine except getting the food took a very long time. I would never go here if you're grabbing lunch and have a...",
+                "time_created": "2025-01-24 14:24:24",
+                "user": {
+                    "name": "John B."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1061,
+        "company": "Flying Dreams Brewing Company",
+        "yelp_business_id": "FcWfJ-um9cdi3MBkeHTZ8g",
+        "yelp_data": {
+            "id": "FcWfJ-um9cdi3MBkeHTZ8g",
+            "name": "Flying Dreams Brewing Co. and Taproom",
+            "rating": 4.4,
+            "review_count": 15,
+            "price": null,
+            "phone": "+15082510484",
+            "url": "https://www.yelp.com/biz/flying-dreams-brewing-co-and-taproom-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/VvqvrPxXIhYF7uQr-SQ9cw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "XMsORGtWCsCDFSunUzQaJg",
+                "rating": 3,
+                "text": "I was recommended the Cherry Gose from fellow drinkers when I was here. It was rather quiet, but there was a band setting up at the back of the brewery....",
+                "time_created": "2024-09-29 18:24:49",
+                "user": {
+                    "name": "David C."
+                }
+            },
+            {
+                "id": "QqG2_9hjWBcMXI3GxufAsA",
+                "rating": 4,
+                "text": "Friendly people, that's for sure. I only liked half of the four beers that I tried, but that's just me. It would be nice if it were a proper restaurant.",
+                "time_created": "2024-04-19 10:42:00",
+                "user": {
+                    "name": "Varun M."
+                }
+            },
+            {
+                "id": "wZNVtFenZCoJDY6GJqGJCw",
+                "rating": 5,
+                "text": "I'm a fan of Flying Dreams! Let me tell you why. \n\nFirst off, their beers rock. I lean toward liking the darker brews, like porters stouts and dark lagers....",
+                "time_created": "2021-06-05 17:56:48",
+                "user": {
+                    "name": "Jason P."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1062,
+        "company": "Fresh Pond Panini & Smoothie Bar",
+        "yelp_business_id": "MWtkAnvwFpB5ZPhniq25XA",
+        "yelp_data": {
+            "id": "MWtkAnvwFpB5ZPhniq25XA",
+            "name": "Bottega di Capri",
+            "rating": 4.3,
+            "review_count": 477,
+            "price": "$$",
+            "phone": "+16177385333",
+            "url": "https://www.yelp.com/biz/bottega-di-capri-brookline?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/wpk5tsQQ_o6Wn8pV-75Qng/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "vxNpHSNe15e1vzXZX4bYQA",
+                "rating": 5,
+                "text": "Fantastic food. \nPlace is small and crowded but service is quick, looked clean, prices are reasonable, and food was really great. \nMany possible...",
+                "time_created": "2024-11-09 07:00:27",
+                "user": {
+                    "name": "Charles L."
+                }
+            },
+            {
+                "id": "b4OFdaQaK1AvHoEOMpL0NA",
+                "rating": 5,
+                "text": "We had the stuffed shells and linguini alfredo - two very basic items - but the flavors were exceptional. Definitely worth the trip.",
+                "time_created": "2025-01-15 15:07:11",
+                "user": {
+                    "name": "Gary M."
+                }
+            },
+            {
+                "id": "B7891uqX5KMwRQ3b0Tla2Q",
+                "rating": 1,
+                "text": "We ordered angel hair & shrimp and this was a mistake. The pasta was in a pool of oil and the bread was stale. We suspect the great reviews are based on the...",
+                "time_created": "2024-09-17 08:55:24",
+                "user": {
+                    "name": "Amelia M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1063,
+        "company": "Jake's Restaurant & Coffee Shop",
+        "yelp_business_id": "NF8DRbqAITpCH1beYq8AOQ",
+        "yelp_data": {
+            "id": "NF8DRbqAITpCH1beYq8AOQ",
+            "name": "Jake's Restaurant & Coffee Shop",
+            "rating": 4.2,
+            "review_count": 217,
+            "price": "$",
+            "phone": "+15084800414",
+            "url": "https://www.yelp.com/biz/jakes-restaurant-and-coffee-shop-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/RUWJNi_-W7NLp0k2HKrIWQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "2237NPHStOANim6qebWHfA",
+                "rating": 4,
+                "text": "**CASH only**\n\nSmall little diner serving breakfast and lunch on the cheap! \n- omlettes with homefries & toast under $10\n- they have hashbrowns! Wish they...",
+                "time_created": "2024-12-28 11:56:12",
+                "user": {
+                    "name": "Michelle C."
+                }
+            },
+            {
+                "id": "WgB4ZBqvfW2DMzYzCZQ50g",
+                "rating": 4,
+                "text": "so I found this place through my travels and thought I would stop in for a quick bite.\n\nto my surprise they offered liver & oinions and I absolutely love...",
+                "time_created": "2024-12-25 09:22:55",
+                "user": {
+                    "name": "Mr F."
+                }
+            },
+            {
+                "id": "Kuc2yTypXoTei0tMrosHWg",
+                "rating": 5,
+                "text": "There are those places that just need to stay open. Jake's is a small diner/restaurant with approximately 15 tables and seats at the counter with friendly,...",
+                "time_created": "2024-08-03 09:15:03",
+                "user": {
+                    "name": "Oli M."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1064,
+        "company": "Lost Shoe Brewing & Roasting Company",
+        "yelp_business_id": "2nj0NCvUHNwHFTdXyi293w",
+        "yelp_data": {
+            "id": "2nj0NCvUHNwHFTdXyi293w",
+            "name": "Lost Shoe Brewing & Roasting Company",
+            "rating": 4.2,
+            "review_count": 102,
+            "price": "$$",
+            "phone": "",
+            "url": "https://www.yelp.com/biz/lost-shoe-brewing-and-roasting-company-marlborough-2?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media4.fl.yelpcdn.com/bphoto/Zd2e5KqEyiuaIjOjQ2_IVA/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "t-ZQR8-mrt6Emr1nlwUj9g",
+                "rating": 5,
+                "text": "I was here twice while in town visiting my daughters and immediately loved the atmosphere and friendly family vibe. The decor was festive with hanging...",
+                "time_created": "2024-08-21 08:28:37",
+                "user": {
+                    "name": "Stephany S."
+                }
+            },
+            {
+                "id": "a-fhVOcFJPtKJpNHQHNU2Q",
+                "rating": 5,
+                "text": "Found this place through google maps and close to where I used to work. It's a cozy with many seatings and a couch and coffee table. When I walked in the...",
+                "time_created": "2025-01-17 09:29:43",
+                "user": {
+                    "name": "Wai P."
+                }
+            },
+            {
+                "id": "hSmRZqYikygf4FKR4H3bug",
+                "rating": 4,
+                "text": "Lost Shoe's conveniently located right in front of a Free parking garage. It was very festive here when I came for a drink. They have small glasses like...",
+                "time_created": "2024-09-29 18:00:49",
+                "user": {
+                    "name": "David C."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1066,
+        "company": "Sugar Heaven Bakery",
+        "yelp_business_id": "KaUlUP5kIh8pTSm4ZUyixw",
+        "yelp_data": {
+            "id": "KaUlUP5kIh8pTSm4ZUyixw",
+            "name": "Stella's Custom Cakes",
+            "rating": 4.7,
+            "review_count": 75,
+            "price": "$$",
+            "phone": "+15083052164",
+            "url": "https://www.yelp.com/biz/stellas-custom-cakes-marlboro?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/PX5N80TRn9-vA_Yo57CMnQ/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "BLnauRupzY_AzG4pNHx4Jw",
+                "rating": 5,
+                "text": "Excellent cupcake cake and design. We had a custom theme cupcake-cake for a 6th birthday party and they did a nice job getting it just right. Everyone loved...",
+                "time_created": "2024-09-06 18:30:12",
+                "user": {
+                    "name": "Jamie D."
+                }
+            },
+            {
+                "id": "DW_JxaPuhtD9yyiNkoE4lg",
+                "rating": 5,
+                "text": "We ordered cupcakes for our daughter's wedding shower this past weekend.  I can say without hesitation that these were the best cupcakes we had ever had....",
+                "time_created": "2024-08-14 17:26:41",
+                "user": {
+                    "name": "Kathy M."
+                }
+            },
+            {
+                "id": "Ai50AFS2LQzS2o_i0dIfGA",
+                "rating": 5,
+                "text": "I ordered  a Boston Cream pie from Stella's based on yelp reviews .  It was big and beautiful and tasted amazing. I kept on changing my mind on what I...",
+                "time_created": "2024-04-01 12:25:23",
+                "user": {
+                    "name": "Ellen H."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1067,
+        "company": "The Coffee Loft",
+        "yelp_business_id": "NZY-04J2vw9kc_M7ljwlTA",
+        "yelp_data": {
+            "id": "NZY-04J2vw9kc_M7ljwlTA",
+            "name": "The Coffee Loft",
+            "rating": 4.3,
+            "review_count": 240,
+            "price": "$",
+            "phone": "+15082512754",
+            "url": "https://www.yelp.com/biz/the-coffee-loft-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/sfyxKX-8kAPLVXlPSOp2Bg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "9ZEe6vLh-gbT1tmfC-mXAQ",
+                "rating": 5,
+                "text": "I visited on the morning of Christmas Eve.  I was exploring the neighborhood as I was in town for my daughter's first holiday in her new home.  The Cafe was...",
+                "time_created": "2024-12-24 06:37:42",
+                "user": {
+                    "name": "Daniel W."
+                }
+            },
+            {
+                "id": "TBFPK79o0-NbYA9tpeu_gA",
+                "rating": 5,
+                "text": "Food. Excellent.\n\nService. Authentically friendly, efficient and pleasant. Happy to help.\n\nAmbiance. Amazing. Warm, cozy, creative w/ couches in a beautiful...",
+                "time_created": "2024-11-01 11:14:13",
+                "user": {
+                    "name": "Miss M."
+                }
+            },
+            {
+                "id": "102PY9rZuFFZTuinYbZEMg",
+                "rating": 3,
+                "text": "There was an overly long wait for my initial service order at the barista counter. And there was a long wait for our order of two coffees and a blueberry...",
+                "time_created": "2024-08-17 06:42:45",
+                "user": {
+                    "name": "Paul F."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1069,
+        "company": "Delana's Bakery",
+        "yelp_business_id": "iL5dj_ZXvb3GLRthwFx_Xw",
+        "yelp_data": {
+            "id": "iL5dj_ZXvb3GLRthwFx_Xw",
+            "name": "Delana\u2019s Bakery",
+            "rating": 5.0,
+            "review_count": 1,
+            "price": null,
+            "phone": "+15086244770",
+            "url": "https://www.yelp.com/biz/delana-s-bakery-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/zI735bD-EFrKrRJuVq65Lw/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "8bK9ntlIlhjvS4qoahbn3g",
+                "rating": 5,
+                "text": "Great Brazilian bakery in downtown Marlboro. When I arrived the lady behind the counter asked what I wanted but I didn't know because they were no labels...",
+                "time_created": "2022-07-30 05:02:03",
+                "user": {
+                    "name": "Daniel S."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1070,
+        "company": "Miranda Bread",
+        "yelp_business_id": "NA9M8yogYqt1Dq5F8DNpHw",
+        "yelp_data": {
+            "id": "NA9M8yogYqt1Dq5F8DNpHw",
+            "name": "Miranda Bread",
+            "rating": 4.0,
+            "review_count": 17,
+            "price": "$",
+            "phone": "+15082512217",
+            "url": "https://www.yelp.com/biz/miranda-bread-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media2.fl.yelpcdn.com/bphoto/maUmHDQf3pG6D__LePI45A/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "Bpm9WDOFlD2niieRN2CWzg",
+                "rating": 5,
+                "text": "Coxinhas are bomb!! Fresh bakery items and burgers worth coming back for. Best Brazilian hole in the wall!",
+                "time_created": "2024-05-27 06:34:58",
+                "user": {
+                    "name": "Corey R."
+                }
+            },
+            {
+                "id": "MiB4vSF83sWqCoE5hk-SgQ",
+                "rating": 1,
+                "text": "2 words.....FOOD POISONING!!\nI highly deter consumption of any deli or cooked meats. A simple breakfast sandwich caused 36hrs of horrific bouts if of Food...",
+                "time_created": "2023-03-28 11:57:11",
+                "user": {
+                    "name": "Roz R."
+                }
+            },
+            {
+                "id": "EVrI56_hhF1fzVIrijPqrw",
+                "rating": 5,
+                "text": "This part of Massachusetts has one of the largest Brazilian immigrant populations in the US. If you look hard, you'll find a lot of restaurants in Central...",
+                "time_created": "2020-11-11 20:57:59",
+                "user": {
+                    "name": "Adam B."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1071,
+        "company": "Pao Brasil Bakery",
+        "yelp_business_id": "m9FwOZLu8nIbNb8_w6q-UA",
+        "yelp_data": {
+            "id": "m9FwOZLu8nIbNb8_w6q-UA",
+            "name": "P\u00e3o Brasil Bakery",
+            "rating": 3.9,
+            "review_count": 41,
+            "price": "$",
+            "phone": "+15088754027",
+            "url": "https://www.yelp.com/biz/p%C3%A3o-brasil-bakery-framingham?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media1.fl.yelpcdn.com/bphoto/w4Qpv7CBeGh1hxpcNaSpyg/o.jpg"
+            ]
+        },
+        "reviews": [
+            {
+                "id": "6sYRbYAQzC7jkS5ndd3ZDA",
+                "rating": 5,
+                "text": "Great Brazilian bakery! I stopped in to pick up some Brazilian pastries for a coworkers birthday and ended up going back twice in the same day to get more...",
+                "time_created": "2024-10-16 06:42:45",
+                "user": {
+                    "name": "Kaye K."
+                }
+            },
+            {
+                "id": "umWzKmaO9o5nyeZSqvuFPg",
+                "rating": 4,
+                "text": "Amazing ambiance - good for a group of 4-6 people.\n\nI loved their Tres Le Ches, it's of my favourite.\n\nAlso they serve epic strawberry shortcake.\n\nA lot of...",
+                "time_created": "2024-06-02 23:15:16",
+                "user": {
+                    "name": "Shardul T."
+                }
+            },
+            {
+                "id": "o-NXuOG_CRP8xny8jxFUuw",
+                "rating": 5,
+                "text": "Good service\nThe food is really good \nAnd the environment is nice\nWill go back cause i love me some Brazilian food",
+                "time_created": "2024-02-14 14:47:01",
+                "user": {
+                    "name": "Tamires A."
+                }
+            }
+        ]
+    },
+    {
+        "restaurant_id": 1072,
+        "company": "Romy's Bakery",
+        "yelp_business_id": "jctC_fd20npXB-_lkqGMtw",
+        "yelp_data": {
+            "id": "jctC_fd20npXB-_lkqGMtw",
+            "name": "Romy's Bakery",
+            "rating": 3.5,
+            "review_count": 2,
+            "price": null,
+            "phone": "+15084857950",
+            "url": "https://www.yelp.com/biz/romys-bakery-marlborough?adjust_creative=fxUSo76vVrMe2lSZboD79w&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=fxUSo76vVrMe2lSZboD79w",
+            "photos": [
+                "https://s3-media3.fl.yelpcdn.com/bphoto/None/o.jpg"
+            ]
+        },
+        "reviews": []
+    }
+]
